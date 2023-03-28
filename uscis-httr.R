@@ -9,6 +9,7 @@ library(jsonlite)
 API_BASE_URL = "https://egov.uscis.gov/processing-times/api/"
 CA_FILE = "egov-uscis-gov.pem"
 
+# Null coalescing operator
 `%||%` = function (x, y) 
 {
   if (is.null(x)) 
@@ -36,8 +37,8 @@ uscis_query = function(endpoint, headers = NULL, config = NULL) {
   # Make API request
   response = GET(
     paste0(API_BASE_URL, endpoint),
-    headers,
-    config
+    uscis_headers,
+    uscis_config
   )
   
   # Check for errors
