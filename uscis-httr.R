@@ -59,9 +59,10 @@ uscis_forms = function() {
 
 forms = uscis_forms()
 
-readr::write_csv(
+write.csv(
   forms, 
-  file = paste0("data-raw/forms-",Sys.Date(),".csv"
+  file = paste0("data-raw/forms-",Sys.Date(),".csv"),
+  row.names = FALSE
   )
 
 ## Forms Types ----
@@ -83,9 +84,10 @@ uscis_form_types = function(forms) {
 form_types = uscis_form_types(forms)
 
 
-readr::write_csv(
+write.csv(
   form_types, 
-  file = paste0("data-raw/form-types-",Sys.Date(),".csv"
+  file = paste0("data-raw/form-types-",Sys.Date(),".csv"),
+  row.names = FALSE
   )
   
 ## Forms processed by Office ----
@@ -108,9 +110,10 @@ uscis_form_offices = function(form_types) {
 
 form_offices = uscis_form_offices(form_types)
 
-readr::write_csv(
+write.csv(
   form_offices, 
-  file = paste0("data-raw/form-offices-",Sys.Date(),".csv"
+  file = paste0("data-raw/form-offices-",Sys.Date(),".csv"),
+  row.names = FALSE
   )
   
 ## Processing Times ----
@@ -160,8 +163,9 @@ uscis_processing_times = function(form_offices) {
 
 processing_times = uscis_processing_times(form_offices)
 
-readr::write_csv(
+write.csv(
   processing_times, 
-  file = paste0("data-raw/processing-times-",Sys.Date(),".csv"
+  file = paste0("data-raw/processing-times-",Sys.Date(),".csv"),
+  row.names = FALSE
   )
   
