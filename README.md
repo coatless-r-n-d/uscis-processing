@@ -15,6 +15,7 @@ You can see an example of the workflow for obtaining the I-485 processing time d
 
 ![Web API Responses from USCIS Processing Times](https://i.imgur.com/FeRwvu4.gif)
 
+Source: <https://i.imgur.com/FeRwvu4.gif>
 
 
 ## Acknowledgements
