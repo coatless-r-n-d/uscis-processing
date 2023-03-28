@@ -1,0 +1,17 @@
+Package: uscis
+Title: USCIS Immigration Form Processing Times
+Version: 0.1
+Authors@R: c(
+    person("James Joseph", "Balamuta", , "balamut2@illinois.edu", role = c("aut", "cre"))
+URL: https://github.com/coatless-r-n-d/uscis-processing
+Depends:
+    R (>= 4.2.0)
+Imports:
+    httr,
+    jsonlite,
+    purrr,
+    ggplot2
+Suggests:
+    knitr
+Encoding: UTF-8
+License: AGPL (>=2)
