@@ -13,9 +13,9 @@ https://egov.uscis.gov/processing-times/api/
 
 You can see an example of the workflow for obtaining the I-485 processing time data for Chicago, IL in the following GIF:
 
-![Web API Responses from USCIS Processing Times](https://i.imgur.com/FeRwvu4.gif)
+![Web API Responses from USCIS Processing Times](https://i.imgur.com/K9OalZF.gif)
 
-Source: <https://i.imgur.com/FeRwvu4.gif>
+Source: <https://i.imgur.com/K9OalZF.gif>
 
 
 ## Acknowledgements
