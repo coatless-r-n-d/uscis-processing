@@ -39,6 +39,51 @@ Times</figcaption>
 
 Source: <https://i.imgur.com/K9OalZF.gif>
 
+## Installation
+
+The `uscis` package is a GitHub-only package. You can install the
+package from GitHub with:
+
+``` r
+# install.packages("remotes")
+remotes::install_github("coatless-r-n-d/ucis-processing")
+```
+
+## Usage
+
+The package provides a set of functions to interact with the USCIS
+Processing Time API. The following is a brief overview of the functions
+available:
+
+- `uscis_forms()`: Retrieves available USCIS forms.
+- `uscis_form_types()`: Retrieves available subtypes for each USCIS
+  form.
+- `uscis_form_offices()`: Retrieves processing offices for each form
+  type.
+- `uscis_processing_times()`: Retrieves current processing times for
+  USCIS forms.
+
+``` r
+# Load the library
+library(uscis)
+
+# Retrieve USCIS forms
+forms <- uscis_forms()
+
+# Retrieve form types based on form names
+form_types <- uscis_form_types(forms)
+
+# Retrieve processing offices for each form type
+offices <- uscis_form_offices(form_types)
+
+# Retrieve processing times for each form and office
+processing_times <- uscis_processing_times(offices)
+```
+
+The API is designed to mirror the steps taken by the USCIS Processing
+Time website. The functions are also designed to be used in a pipeline
+fashion to retrieve the desired information.
+
 ## Acknowledgements
 
 ### USCIS
@@ -68,3 +113,7 @@ prior projects, please see:
 - [Andrew Duberstein’s `uscis-wait-times`
   (Python)](https://github.com/ajduberstein/uscis-wait-times)
 - [J. Zebedee’s `uscis` (SQL)](https://github.com/jzebedee/uscis)
+
+## License
+
+AGPL (\>= 2)
