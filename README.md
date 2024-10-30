@@ -8,8 +8,10 @@
 [![R-CMD-check](https://github.com/coatless-r-n-d/uscis-processing/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/coatless-r-n-d/uscis-processing/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
-> \[!IMPORTANT\] This project is not affiliated with any government
-> agency and should not be considered official by any means.
+> \[!IMPORTANT\]
+>
+> This project is not affiliated with any government agency and should
+> not be considered official by any means.
 
 The repository contains a study in programmatically obtaining
 [processing time data](https://egov.uscis.gov/processing-times/) for
