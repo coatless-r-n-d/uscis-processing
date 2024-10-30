@@ -6,7 +6,7 @@
 #' @return
 #' Boolean if session was successfully initialized
 #' @export
-init_uscis_session <- function(cookie_file = "uscis.cookies") {
+uscis_init_session <- function(cookie_file = "uscis.cookies") {
     initial_headers <- c(
         "User-Agent" = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0",
         "Accept" = "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/png,image/svg+xml,*/*;q=0.8",

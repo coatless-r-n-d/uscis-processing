@@ -42,7 +42,7 @@ First, we need to initialize a session with USCIS to get the necessary cookies:
 
 ```{r}
 #| label: init
-init_uscis_session()
+uscis_init_session()
 ```
 
 ### Available Forms
@@ -87,6 +87,7 @@ i130_offices <- form_offices |>
   filter(form_name == "I-130")
 
 processing_times <- uscis_processing_times(i130_offices)
+head(processing_times)
 ```
 
 ## Analysis Examples
@@ -98,6 +99,7 @@ Before we begin, let's standardize all times to months:
 ```{r}
 #| label: standardize-timew
 processing_in_months <- standardize_to_months(processing_times)
+head(processing_in_months)
 ```
 
 
@@ -223,7 +225,9 @@ write.csv(
 )
 ```
 
-## Common Issues
+This will allow you to analyze the data further across time or share it with others.
+
+# Common Issues
 
 1. If you get authentication errors, try running `init_uscis_session()` again
 2. The API may have rate limits, so consider adding delays between requests for large queries
@@ -234,7 +238,7 @@ The actual data may vary from when this vignette was built since
 the USCIS updates their processing times randomly.
 :::
 
-## Additional Options
+# Additional Options
 
 You can also use the `uscis` package to:
 
@@ -245,7 +249,7 @@ You can also use the `uscis` package to:
 
 The skies the limit with the data you have at your disposal!
 
-## Session Information
+# Session Information
 
 ```{r}
 #| label: session-info

@@ -26,8 +26,13 @@ Retrieves available subtypes for each USCIS form
 }
 \examples{
 \dontrun{
-init_uscis_session()
+# Initialize USCIS session
+uscis_init_session()
+
+# Retrieve USCIS forms
 forms <- uscis_forms()
+
+# Retrieve form types based on form names
 form_types <- uscis_form_types(forms)
 head(form_types)
 }

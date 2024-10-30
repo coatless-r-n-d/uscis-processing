@@ -12,7 +12,7 @@ uscis_form_offices(form_types, cookie_file = "uscis.cookies")
 \item{cookie_file}{Path to cookie file}
 }
 \value{
-Data frame of forms and their processing offices
+Data frame of forms and their processing offices with the following columns:
 \describe{
 \item{form_name}{Character. The name/identifier of the USCIS form}
 \item{form_type}{Character. Type classification of the form}
@@ -25,9 +25,16 @@ Retrieves processing offices for each form type
 }
 \examples{
 \dontrun{
-init_uscis_session()
+# Initialize USCIS session
+uscis_init_session()
+
+# Retrieve USCIS forms
 forms <- uscis_forms()
+
+# Retrieve form types based on form names
 form_types <- uscis_form_types(forms)
+
+# Retrieve processing offices for each form type
 form_offices <- uscis_form_offices(form_types)
 head(form_offices)
 }

@@ -55,6 +55,7 @@ The package provides a set of functions to interact with the USCIS
 Processing Time API. The following is a brief overview of the functions
 available:
 
+- `uscis_init_session()`: Initializes a USCIS session.
 - `uscis_forms()`: Retrieves available USCIS forms.
 - `uscis_form_types()`: Retrieves available subtypes for each USCIS
   form.
@@ -66,6 +67,9 @@ available:
 ``` r
 # Load the library
 library(uscis)
+
+# Initialize USCIS session
+uscis_init_session()
 
 # Retrieve USCIS forms
 forms <- uscis_forms()

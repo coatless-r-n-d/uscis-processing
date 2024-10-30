@@ -22,7 +22,10 @@ Retrieves list of available USCIS forms
 }
 \examples{
 \dontrun{
-init_uscis_session()
+# Initialize USCIS session
+uscis_init_session()
+
+# Retrieve USCIS forms
 forms <- uscis_forms()
 head(forms)
 }

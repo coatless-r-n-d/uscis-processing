@@ -25,12 +25,18 @@
 #'   Factor columns are created to optimize memory usage and ensure consistent categories across the dataset.
 #' @examples
 #' \dontrun{
+#' # Initialize USCIS session
+#' uscis_init_session()
+#'
 #' # Retrieve USCIS forms
 #' forms <- uscis_forms()
+#'
 #' # Retrieve form types based on form names
 #' form_types <- uscis_form_types(forms)
+#'
 #' # Retrieve processing offices for each form type
 #' offices <- uscis_form_offices(form_types)
+#'
 #' # Retrieve processing times for each form and office
 #' processing_times <- uscis_processing_times(offices)
 #' head(processing_times)
