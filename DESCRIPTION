@@ -1,17 +1,27 @@
 Package: uscis
 Title: USCIS Immigration Form Processing Times
-Version: 0.1
+Version: 0.1.0
 Authors@R: c(
     person("James Joseph", "Balamuta", , "balamut2@illinois.edu", role = c("aut", "cre"))
-URL: https://github.com/coatless-r-n-d/uscis-processing
+    )
+Description: Provides functions to access and analyze USCIS (United States Citizenship 
+    and Immigration Services) processing times data through their API. Includes 
+    functionality to retrieve form information, office locations, and current 
+    processing times for various immigration forms.
+URL: https://github.com/coatless-r-n-d/uscis-processing, https://rd.thecoatlessprofessor.com/uscis-processing/
 Depends:
-    R (>= 4.2.0)
+    R (>= 4.3.0)
 Imports:
-    httr,
-    jsonlite,
+    httr2,
+    dplyr,
     purrr,
-    ggplot2
+    tibble
 Suggests:
+    quarto,
+    ggplot2,
     knitr
-Encoding: UTF-8
+VignetteBuilder: quarto
 License: AGPL (>=2)
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2

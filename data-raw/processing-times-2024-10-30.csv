@@ -1,0 +1,714 @@
+form_name,form_subtype,office_code,publication_date,form_note_en,form_note_es,range_upper,range_upper_unit,range_lower,range_lower_unit,service_request_date,subtype_info_en,subtype_info_es
+I-102,142,CSC,"October 18, 2024",NA,NA,33.5,Months,6.5,Months,"January 28, 2022",Initial issuance or replacement of a Form I-94,Emisión o reemplazo inicial del Formulario I-94
+I-102,142,NBC,"October 18, 2024",NA,NA,5.5,Months,4,Months,"May 21, 2024",Initial issuance or replacement of a Form I-94,Emisión o reemplazo inicial del Formulario I-94
+I-102,142,NSC,"October 18, 2024",NA,NA,24,Months,18,Months,"November 03, 2022",Initial issuance or replacement of a Form I-94,Emisión o reemplazo inicial del Formulario I-94
+I-102,142,SSC,"October 18, 2024",NA,NA,4,Months,2,Months,"July 02, 2024",Initial issuance or replacement of a Form I-94,Emisión o reemplazo inicial del Formulario I-94
+I-102,142,ESC,"October 18, 2024",NA,NA,8.5,Months,6.5,Months,"February 22, 2024",Initial issuance or replacement of a Form I-94,Emisión o reemplazo inicial del Formulario I-94
+I-129,137-E,CSC,"October 18, 2024",NA,NA,13,Months,7,Months,"October 07, 2023",E - Treaty traders and investors,E - Comerciantes e inversionistas
+I-129,137-E3,ESC,"October 18, 2024",NA,NA,7,Months,3.5,Months,"April 08, 2024",E3 - Specialty occupation workers from Australia,E-3 para Trabajadores Australianos en Trabajos Especializados
+I-129,137-H1B1,CSC,"October 18, 2024",NA,NA,6.5,Months,3.5,Months,"April 20, 2024",H-1B - Specialty occupation - Visa to be issued abroad,H-1B - Ocupación especial - visa que se expedirá en el exterior
+I-129,137-H1B1,SSC,"October 18, 2024",NA,NA,7,Months,3.5,Months,"April 07, 2024",H-1B - Specialty occupation - Visa to be issued abroad,H-1B - Ocupación especial - visa que se expedirá en el exterior
+I-129,137-H1B1,ESC,"October 18, 2024",NA,NA,6,Months,3.5,Months,"May 03, 2024",H-1B - Specialty occupation - Visa to be issued abroad,H-1B - Ocupación especial - visa que se expedirá en el exterior
+I-129,137-H1B2,CSC,"October 18, 2024",NA,NA,4,Months,3.5,Months,"July 20, 2024",H-1B - Specialty occupation - Change of status in the U.S.,H-1B - Ocupación especial - cambio de la condición migratoria en los E.E.U.U.
+I-129,137-H1B2,SSC,"October 18, 2024",NA,NA,3.5,Months,3,Months,"July 21, 2024",H-1B - Specialty occupation - Change of status in the U.S.,H-1B - Ocupación especial - cambio de la condición migratoria en los E.E.U.U.
+I-129,137-H1B2,ESC,"October 18, 2024",NA,NA,4,Months,3.5,Months,"July 07, 2024",H-1B - Specialty occupation - Change of status in the U.S.,H-1B - Ocupación especial - cambio de la condición migratoria en los E.E.U.U.
+I-129,137-H1B3,CSC,"October 18, 2024",NA,NA,4,Months,3,Months,"July 09, 2024",H-1B - Specialty occupation - Extension of stay in the U.S.,H-1B - Ocupación especial - extensión de la estadía en los E.E.U.U.
+I-129,137-H1B3,NSC,"October 18, 2024",NA,NA,5.5,Months,4.5,Months,"May 21, 2024",H-1B - Specialty occupation - Extension of stay in the U.S.,H-1B - Ocupación especial - extensión de la estadía en los E.E.U.U.
+I-129,137-H1B3,SSC,"October 18, 2024",NA,NA,4,Months,2.5,Months,"July 08, 2024",H-1B - Specialty occupation - Extension of stay in the U.S.,H-1B - Ocupación especial - extensión de la estadía en los E.E.U.U.
+I-129,137-H1B3,ESC,"October 18, 2024",NA,NA,7,Months,6.5,Months,"April 10, 2024",H-1B - Specialty occupation - Extension of stay in the U.S.,H-1B - Ocupación especial - extensión de la estadía en los E.E.U.U.
+I-129,137-H2A,CSC,"October 18, 2024",NA,NA,1,Month,2,Weeks,"October 15, 2024",H-2A - Temporary agricultural workers,H-2A - Trabajadores agrícolas temporales
+I-129,137-H2B,CSC,"October 18, 2024",NA,NA,4,Months,1.5,Months,"July 03, 2024",H-2B - Temporary nonagricultural workers,H-2B - Trabajadores temporal no agrícolas
+I-129,137-H2B,ESC,"October 18, 2024",NA,NA,4.5,Months,3,Months,"June 16, 2024",H-2B - Temporary nonagricultural workers,H-2B - Trabajadores temporal no agrícolas
+I-129,137-H3,CSC,"October 18, 2024",NA,NA,18,Months,11,Months,"May 13, 2023",H-3 - Temporary trainees,H-3 - Aprendices temporales
+I-129,137-H3,ESC,"October 18, 2024",NA,NA,8.5,Months,6,Months,"February 15, 2024",H-3 - Temporary trainees,H-3 - Aprendices temporales
+I-129,137-L,CSC,"October 18, 2024",NA,NA,5.5,Months,4,Months,"May 29, 2024",Intracompany transferees and blanket L,Ejecutivos transferidos dentro una misma empresa y petición general L
+I-129,137-L,SSC,"October 18, 2024",NA,NA,8,Months,6,Months,"March 08, 2024",Intracompany transferees and blanket L,Ejecutivos transferidos dentro una misma empresa y petición general L
+I-129,137-O,CSC,"October 18, 2024",NA,NA,10.5,Months,7,Months,"December 22, 2023",O - Extraordinary ability,O - Capacidad extraordinaria
+I-129,137-O,ESC,"October 18, 2024",NA,NA,6,Months,4,Months,"May 10, 2024",O - Extraordinary ability,O - Capacidad extraordinaria
+I-129,137-P,CSC,"October 18, 2024",NA,NA,15,Months,7.5,Months,"August 02, 2023","P - Athletes, artists, and entertainers","P - Atletas, artistas, y actores"
+I-129,137-P,ESC,"October 18, 2024",NA,NA,5,Months,2,Months,"June 11, 2024","P - Athletes, artists, and entertainers","P - Atletas, artistas, y actores"
+I-129,137-Q,CSC,"October 18, 2024",NA,NA,45,Months,14,Months,"February 01, 2021",Q - Cultural exchange visitors,Q - Visitantes de intercambio cultural
+I-129,137-Q,ESC,"October 18, 2024",NA,NA,45,Months,14,Months,"February 01, 2021",Q - Cultural exchange visitors,Q - Visitantes de intercambio cultural
+I-129,137-R,CSC,"October 18, 2024",NA,NA,6,Months,4.5,Months,"May 03, 2024",R - Religious occupation,R - Ocupación religiosa
+I-129,137-TN,ESC,"October 18, 2024",NA,NA,6.5,Months,4.5,Months,"April 28, 2024","TN - United States-Mexico-Canada Agreement (USMCA, formerly NAFTA) professional","TN – Profesionales bajo el Tratado de Libre Comercio de Estados Unidos, Canadá y México (USMCA, anteriormente NAFTA)"
+I-129CW,129-CW1,CSC,"October 18, 2024",NA,NA,4.5,Months,3,Months,"June 28, 2024",CW-1 - CNMI-Only Nonimmigrant Transitional Worker,CW-1 - Trabajador Transitorio Solo de CNMI
+I-129F,134A-K,CSC,"October 18, 2024",NA,NA,13,Months,9,Months,"October 06, 2023",K1/K2/K3/K4 - Fiance(e) or spouse and/or dependent children,K1/K2/K3/K4 - Prometido(a) o cónyuge y/o hijos dependientes
+I-129F,134A-K,NSC,"October 18, 2024",NA,NA,13,Months,10.5,Months,"October 10, 2023",K1/K2/K3/K4 - Fiance(e) or spouse and/or dependent children,K1/K2/K3/K4 - Prometido(a) o cónyuge y/o hijos dependientes
+I-129F,134A-K,YSC,"October 18, 2024",NA,NA,14.5,Months,14,Months,"September 02, 2023",K1/K2/K3/K4 - Fiance(e) or spouse and/or dependent children,K1/K2/K3/K4 - Prometido(a) o cónyuge y/o hijos dependientes
+I-129F,134A-K,SSC,"October 18, 2024",NA,NA,15,Months,13.5,Months,"August 11, 2023",K1/K2/K3/K4 - Fiance(e) or spouse and/or dependent children,K1/K2/K3/K4 - Prometido(a) o cónyuge y/o hijos dependientes
+I-129F,134A-K,ESC,"October 18, 2024",NA,NA,37.5,Months,26.5,Months,"September 22, 2021",K1/K2/K3/K4 - Fiance(e) or spouse and/or dependent children,K1/K2/K3/K4 - Prometido(a) o cónyuge y/o hijos dependientes
+I-130,134A-F21,SCD,"October 18, 2024",NA,NA,40,Months,38,Months,"July 07, 2021",Permanent resident filing for a spouse or child under 21,Petición de un residente permanente para un cónyuge o un niño menor de 21años
+I-130,134A-F21,NBC,"October 18, 2024",NA,NA,56.5,Months,54,Months,"February 29, 2020",Permanent resident filing for a spouse or child under 21,Petición de un residente permanente para un cónyuge o un niño menor de 21años
+I-130,134A-F21,FOD,"October 18, 2024",NA,NA,95.5,Months,82.5,Months,"November 17, 2016",Permanent resident filing for a spouse or child under 21,Petición de un residente permanente para un cónyuge o un niño menor de 21años
+I-130,134A-IR,SCD,"October 18, 2024",NA,NA,23,Months,15.5,Months,"December 07, 2022","U.S. citizen filing for a spouse, parent, or child under 21","Petición de un ciudadano de EE.UU. para un cónyuge, un padre, o un niño menor de 21 años"
+I-130,134A-IR,NBC,"October 18, 2024",NA,NA,55,Months,46,Months,"April 10, 2020","U.S. citizen filing for a spouse, parent, or child under 21","Petición de un ciudadano de EE.UU. para un cónyuge, un padre, o un niño menor de 21 años"
+I-130,134A-IR,FOD,"October 18, 2024",NA,NA,81.5,Months,62,Months,"January 17, 2018","U.S. citizen filing for a spouse, parent, or child under 21","Petición de un ciudadano de EE.UU. para un cónyuge, un padre, o un niño menor de 21 años"
+I-130,134B-F11,SCD,"October 18, 2024",NA,NA,107,Months,87.5,Months,"December 13, 2015",U.S. citizen filing for unmarried son/daughter 21 or older,Ciudadano estadounidense que presenta solicitud para hijo o hija soltero de 21 años o mayor
+I-130,134B-F11,NBC,"October 18, 2024",NA,NA,57.5,Months,54,Months,"January 22, 2020",U.S. citizen filing for unmarried son/daughter 21 or older,Ciudadano estadounidense que presenta solicitud para hijo o hija soltero de 21 años o mayor
+I-130,134B-F11,FOD,"October 18, 2024",NA,NA,128,Months,96.5,Months,"March 07, 2014",U.S. citizen filing for unmarried son/daughter 21 or older,Ciudadano estadounidense que presenta solicitud para hijo o hija soltero de 21 años o mayor
+I-130,134B-F24,SCD,"October 18, 2024",NA,NA,78,Months,49,Months,"May 04, 2018",Permanent resident for unmarried son or daughter 21 or older,Residente permanente que presenta solicitud para hijo o hija de 21 años o mayor
+I-130,134B-F24,NBC,"October 18, 2024",NA,NA,56,Months,52,Months,"March 05, 2020",Permanent resident for unmarried son or daughter 21 or older,Residente permanente que presenta solicitud para hijo o hija de 21 años o mayor
+I-130,134B-F24,FOD,"October 18, 2024",NA,NA,164,Months,106.5,Months,"March 07, 2011",Permanent resident for unmarried son or daughter 21 or older,Residente permanente que presenta solicitud para hijo o hija de 21 años o mayor
+I-130,134B-F31,SCD,"October 18, 2024",NA,NA,139.5,Months,133,Months,"March 23, 2013","
+U.S. citizen filing for a married son or daughter","
+Petición de un ciudadano de EE.UU. para un hijo o una hija casado(a)"
+I-130,134B-F31,NBC,"October 18, 2024",NA,NA,82,Months,55.5,Months,"January 04, 2018","
+U.S. citizen filing for a married son or daughter","
+Petición de un ciudadano de EE.UU. para un hijo o una hija casado(a)"
+I-130,134B-F31,FOD,"October 18, 2024",NA,NA,127.5,Months,94,Months,"March 21, 2014","
+U.S. citizen filing for a married son or daughter","
+Petición de un ciudadano de EE.UU. para un hijo o una hija casado(a)"
+I-130,134B-F41,SCD,"October 18, 2024",NA,NA,157.5,Months,155,Months,"October 02, 2011",U.S. citizen filing for a brother or sister,Petición de un ciudadano de EE.UU. para un hermano o una hermana
+I-130,134B-F41,NBC,"October 18, 2024",NA,NA,59.5,Months,57,Months,"November 26, 2019",U.S. citizen filing for a brother or sister,Petición de un ciudadano de EE.UU. para un hermano o una hermana
+I-130,134B-F41,FOD,"October 18, 2024",NA,NA,181.5,Months,111.5,Months,"September 24, 2009",U.S. citizen filing for a brother or sister,Petición de un ciudadano de EE.UU. para un hermano o una hermana
+I-131,141A-RT,NSC,"October 18, 2024",NA,NA,15.5,Months,14.5,Months,"July 19, 2023",Re-entry permit or refugee travel document,Permiso de reingreso o documento de viaje de refugiado
+I-131,141B-OTH,CSC,"October 18, 2024",NA,NA,21,Months,15,Months,"February 06, 2023",Advance parole,Permiso adelantado de viaje
+I-131,141B-OTH,NBC,"October 18, 2024",NA,NA,12.5,Months,10.5,Months,"October 30, 2023",Advance parole,Permiso adelantado de viaje
+I-131,141B-OTH,NSC,"October 18, 2024",NA,NA,7.5,Months,5.5,Months,"March 18, 2024",Advance parole,Permiso adelantado de viaje
+I-131,141B-OTH,SSC,"October 18, 2024",NA,NA,31.5,Months,24.5,Months,"March 26, 2022",Advance parole,Permiso adelantado de viaje
+I-131,141B-OTH,ESC,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 14, 2024",Advance parole,Permiso adelantado de viaje
+I-140,136A-E11,NSC,"October 18, 2024",NA,NA,15.5,Months,12.5,Months,"July 18, 2023",Extraordinary ability (E11),Capacidad extraordinaria (E11)
+I-140,136A-E11,SSC,"October 18, 2024",NA,NA,16,Months,14,Months,"July 15, 2023",Extraordinary ability (E11),Capacidad extraordinaria (E11)
+I-140,136A-E12,NSC,"October 18, 2024",NA,NA,15.5,Months,12,Months,"July 29, 2023",Outstanding professor or researcher (E12),Profesor o investigador excepcional (E12)
+I-140,136A-E12,SSC,"October 18, 2024",NA,NA,13.5,Months,10.5,Months,"September 29, 2023",Outstanding professor or researcher (E12),Profesor o investigador excepcional (E12)
+I-140,136A-E13,NSC,"October 18, 2024",NA,NA,13.5,Months,12.5,Months,"September 25, 2023",Multinational executive or manager (E13),Ejecutivo o gerente multinacional (E13)
+I-140,136A-E13,SSC,"October 18, 2024",NA,NA,12.5,Months,9.5,Months,"October 19, 2023",Multinational executive or manager (E13),Ejecutivo o gerente multinacional (E13)
+I-140,136A-E21,NSC,"October 18, 2024",NA,NA,9,Months,8,Months,"February 06, 2024",Advanced degree or exceptional ability (E21),Grado avanzado o capacidad excepcional (E21)
+I-140,136A-E21,SSC,"October 18, 2024",NA,NA,10.5,Months,8.5,Months,"December 27, 2023",Advanced degree or exceptional ability (E21),Grado avanzado o capacidad excepcional (E21)
+I-140,136A-E31,NSC,"October 18, 2024",NA,NA,10,Months,8,Months,"January 05, 2024",Skilled worker or professional (E31; E32),Trabajador calificado o profesional (E31; E32)
+I-140,136A-E31,SSC,"October 18, 2024",NA,NA,9.5,Months,6.5,Months,"January 21, 2024",Skilled worker or professional (E31; E32),Trabajador calificado o profesional (E31; E32)
+I-140,136A-EW3,NSC,"October 18, 2024",NA,NA,10.5,Months,9,Months,"December 20, 2023",Unskilled worker (EW3),Trabajador no calificado (EW3)
+I-140,136A-EW3,SSC,"October 18, 2024",NA,NA,10.5,Months,9,Months,"December 30, 2023",Unskilled worker (EW3),Trabajador no calificado (EW3)
+I-140,136A-NIW,NSC,"October 18, 2024",NA,NA,15.5,Months,12,Months,"July 28, 2023",Advanced degree or exceptional ability requesting a National Interest Waiver (NIW),"[Persona o Personas] con Certificado de Estudios Superiores o con capacidad excepcional, que solicita(n) una Exención en Razón a Interés Nacional [National Interest Waiver (NIW)]"
+I-140,136A-NIW,SSC,"October 18, 2024",NA,NA,14,Months,10,Months,"September 14, 2023",Advanced degree or exceptional ability requesting a National Interest Waiver (NIW),"[Persona o Personas] con Certificado de Estudios Superiores o con capacidad excepcional, que solicita(n) una Exención en Razón a Interés Nacional [National Interest Waiver (NIW)]"
+I-140,136A-NUR,NSC,"October 18, 2024",NA,NA,12.5,Months,11.5,Months,"October 25, 2023",Schedule A Nurses,Enfermeras de la Lista A [de conformidad con I-136A]
+I-140,136A-NUR,SSC,"October 18, 2024",NA,NA,11,Months,10,Months,"December 04, 2023",Schedule A Nurses,Enfermeras de la Lista A [de conformidad con I-136A]
+I-212,144B,NSC,"October 18, 2024",NA,NA,37.5,Months,30,Months,"September 25, 2021",Permission to reapply for admission after deportation and removal,Permiso para volver a solicitar admisión después de deportación o remoción
+I-212,144B,FOD,"October 18, 2024",NA,NA,43.5,Months,31.5,Months,"March 20, 2021",Permission to reapply for admission after deportation and removal,Permiso para volver a solicitar admisión después de deportación o remoción
+I-360,135B,CSC,"October 18, 2024",NA,NA,6.5,Months,6,Months,"May 09, 2024",All other special immigrants,Todos los otros inmigrantes especiales
+I-360,135B,NSC,"October 18, 2024",NA,NA,16.5,Months,14,Months,"June 28, 2023",All other special immigrants,Todos los otros inmigrantes especiales
+I-360,135B,ESC,"October 18, 2024",NA,NA,40.5,Months,30.5,Months,"June 29, 2021",All other special immigrants,Todos los otros inmigrantes especiales
+I-360,135C,SCD,"October 18, 2024",NA,NA,44.5,Months,41,Months,"February 24, 2021",Violence Against Women Act (VAWA),Ley sobre la Violencia Contra la Mujer(VAWA)
+I-360,135D-RW,CSC,"October 18, 2024",NA,NA,7.5,Months,6,Months,"March 17, 2024",Religious workers,Trabajadores religiosos
+I-360,135E,NSC,"October 18, 2024",NA,NA,9,Months,4,Months,"February 01, 2024",Afghan or Iraqi Translators and Afghan or Iraqi nationals who worked for on or behalf of the U.S. government,Traductores afganos o iraquíes o nacionales afganos o iraquías que trabajaron a para el Gobierno de Estados Unidos o a nombre de este
+I-407,407,EFC,"October 18, 2024",NA,NA,2.5,Months,2,Months,"August 26, 2024",Record of Abandonment of Lawful Permanent Resident Status,Registro de Abandono de Estatus de Residente Permanente Legal
+I-485,131A,CSC,"October 18, 2024",NA,NA,26,Months,21.5,Months,"September 02, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,NSC,"October 18, 2024",NA,NA,19.5,Months,14.5,Months,"March 30, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SSC,"October 18, 2024",NA,NA,36.5,Months,30,Months,"October 27, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,AGA,"October 18, 2024",NA,NA,14.5,Months,13.5,Months,"August 18, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,ALB,"October 18, 2024",NA,NA,11,Months,7.5,Months,"December 08, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,ABQ,"October 18, 2024",NA,NA,45.5,Months,37.5,Months,"January 15, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,ANC,"October 18, 2024",NA,NA,18,Months,11.5,Months,"May 07, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,ATL,"October 18, 2024",NA,NA,92,Months,38,Months,"March 11, 2017",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,BAL,"October 18, 2024",NA,NA,45.5,Months,39,Months,"January 23, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,BOI,"October 18, 2024",NA,NA,18,Months,11.5,Months,"May 11, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,BOS,"October 18, 2024",NA,NA,17,Months,9,Months,"June 12, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,BNY,"October 18, 2024",NA,NA,15,Months,10,Months,"August 09, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,BUF,"October 18, 2024",NA,NA,14,Months,9,Months,"September 06, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,STA,"October 18, 2024",NA,NA,14,Months,9,Months,"September 15, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CHL,"October 18, 2024",NA,NA,34.5,Months,26,Months,"December 18, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CHA,"October 18, 2024",NA,NA,21.5,Months,21,Months,"January 31, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CLT,"October 18, 2024",NA,NA,44.5,Months,24.5,Months,"February 16, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CHI,"October 18, 2024",NA,NA,42.5,Months,26.5,Months,"April 28, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CHR,"October 18, 2024",NA,NA,29,Months,14,Months,"June 10, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CIN,"October 18, 2024",NA,NA,15,Months,10.5,Months,"August 10, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CLE,"October 18, 2024",NA,NA,18.5,Months,8.5,Months,"April 25, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,CLM,"October 18, 2024",NA,NA,23,Months,9,Months,"December 12, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,NJC,"October 18, 2024",NA,NA,19.5,Months,11.5,Months,"March 21, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,DAL,"October 18, 2024",NA,NA,58.5,Months,41.5,Months,"December 28, 2019",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,DEN,"October 18, 2024",NA,NA,45,Months,34,Months,"February 08, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,DSM,"October 18, 2024",NA,NA,28,Months,22.5,Months,"July 14, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,DET,"October 18, 2024",NA,NA,23,Months,17,Months,"December 11, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,ELP,"October 18, 2024",NA,NA,38.5,Months,20,Months,"August 20, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,OFM,"October 18, 2024",NA,NA,29.5,Months,19.5,Months,"May 24, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,FSA,"October 18, 2024",NA,NA,12.5,Months,8,Months,"October 18, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,FRE,"October 18, 2024",NA,NA,15.5,Months,9.5,Months,"July 30, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,GRR,"October 18, 2024",NA,NA,22.5,Months,14,Months,"December 26, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,HLG,"October 18, 2024",NA,NA,47,Months,22.5,Months,"December 02, 2020",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,HAR,"October 18, 2024",NA,NA,15,Months,10,Months,"August 14, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,HEL,"October 18, 2024",NA,NA,71.5,Months,71,Months,"December 14, 2018",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,HIA,"October 18, 2024",NA,NA,22.5,Months,12.5,Months,"December 25, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,HHW,"October 18, 2024",NA,NA,16.5,Months,9,Months,"June 30, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,HOU,"October 18, 2024",NA,NA,57.5,Months,34.5,Months,"January 18, 2020",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,IMP,"October 18, 2024",NA,NA,13.5,Months,8.5,Months,"September 27, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,INP,"October 18, 2024",NA,NA,14.5,Months,9.5,Months,"August 21, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,JAC,"October 18, 2024",NA,NA,38,Months,29.5,Months,"September 07, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,KAN,"October 18, 2024",NA,NA,34,Months,31.5,Months,"January 03, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,KND,"October 18, 2024",NA,NA,16,Months,10,Months,"July 08, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,LVG,"October 18, 2024",NA,NA,90,Months,82.5,Months,"May 16, 2017",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,LAW,"October 18, 2024",NA,NA,14.5,Months,8,Months,"August 23, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,LNY,"October 18, 2024",NA,NA,14,Months,8,Months,"September 14, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,LOS,"October 18, 2024",NA,NA,18,Months,9.5,Months,"May 02, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,LAC,"October 18, 2024",NA,NA,17,Months,9.5,Months,"June 12, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,LOU,"October 18, 2024",NA,NA,17.5,Months,10.5,Months,"May 19, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,MAN,"October 18, 2024",NA,NA,14.5,Months,9,Months,"August 25, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,MEM,"October 18, 2024",NA,NA,34.5,Months,29,Months,"December 25, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,MIA,"October 18, 2024",NA,NA,49.5,Months,36,Months,"September 21, 2020",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,MIL,"October 18, 2024",NA,NA,55,Months,32.5,Months,"April 01, 2020",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SPM,"October 18, 2024",NA,NA,42,Months,18,Months,"May 14, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,MGA,"October 18, 2024",NA,NA,36,Months,17,Months,"November 02, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,MTL,"October 18, 2024",NA,NA,20,Months,9,Months,"March 03, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,NTN,"October 18, 2024",NA,NA,43.5,Months,29.5,Months,"March 17, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,NEW,"October 18, 2024",NA,NA,23,Months,13,Months,"December 13, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,NOL,"October 18, 2024",NA,NA,35.5,Months,25.5,Months,"November 17, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,NYC,"October 18, 2024",NA,NA,17.5,Months,9.5,Months,"May 24, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,NOR,"October 18, 2024",NA,NA,45,Months,31.5,Months,"February 04, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,OKL,"October 18, 2024",NA,NA,63,Months,46,Months,"August 12, 2019",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,OKC,"October 18, 2024",NA,NA,43.5,Months,40.5,Months,"March 31, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,OMA,"October 18, 2024",NA,NA,13.5,Months,8,Months,"September 28, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,ORL,"October 18, 2024",NA,NA,66,Months,36.5,Months,"May 10, 2019",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,PHI,"October 18, 2024",NA,NA,22,Months,9.5,Months,"January 09, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,PHO,"October 18, 2024",NA,NA,37.5,Months,27.5,Months,"September 18, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,PIT,"October 18, 2024",NA,NA,23,Months,11.5,Months,"December 14, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,POM,"October 18, 2024",NA,NA,26,Months,9.5,Months,"September 04, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,POO,"October 18, 2024",NA,NA,14,Months,9,Months,"September 14, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,PRO,"October 18, 2024",NA,NA,12.5,Months,8.5,Months,"October 24, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,QNS,"October 18, 2024",NA,NA,14.5,Months,8.5,Months,"August 19, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,RAL,"October 18, 2024",NA,NA,41.5,Months,31,Months,"May 21, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,REN,"October 18, 2024",NA,NA,32.5,Months,13.5,Months,"February 24, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SAC,"October 18, 2024",NA,NA,16.5,Months,10,Months,"June 26, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,STL,"October 18, 2024",NA,NA,36,Months,23,Months,"November 14, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SLC,"October 18, 2024",NA,NA,41,Months,31.5,Months,"June 10, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SNA,"October 18, 2024",NA,NA,46,Months,32,Months,"January 13, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SBD,"October 18, 2024",NA,NA,15.5,Months,10,Months,"July 26, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SND,"October 18, 2024",NA,NA,31,Months,12.5,Months,"April 04, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SFV,"October 18, 2024",NA,NA,15,Months,8,Months,"August 07, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SFR,"October 18, 2024",NA,NA,21.5,Months,11,Months,"January 29, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SNJ,"October 18, 2024",NA,NA,17.5,Months,9.5,Months,"May 24, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SAJ,"October 18, 2024",NA,NA,34.5,Months,7.5,Months,"December 25, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SAA,"October 18, 2024",NA,NA,16,Months,9.5,Months,"July 13, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SEA,"October 18, 2024",NA,NA,15,Months,9.5,Months,"August 06, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,SPO,"October 18, 2024",NA,NA,15.5,Months,8.5,Months,"July 26, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,TAM,"October 18, 2024",NA,NA,43.5,Months,25.5,Months,"March 25, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,TUC,"October 18, 2024",NA,NA,30,Months,17,Months,"May 07, 2022",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,WAS,"October 18, 2024",NA,NA,65.5,Months,44,Months,"May 23, 2019",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,WPB,"October 18, 2024",NA,NA,44,Months,36,Months,"March 03, 2021",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,WIC,"October 18, 2024",NA,NA,20.5,Months,20,Months,"March 11, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A,YAK,"October 18, 2024",NA,NA,21,Months,10,Months,"February 02, 2023",Employment-Based adjustment applications,Solicitudes de Modificación Migratoria Basadas en el Empleo
+I-485,131A-FAM,AGA,"October 18, 2024",NA,NA,21,Months,13.5,Months,"February 10, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,ALB,"October 18, 2024",NA,NA,24.5,Months,16,Months,"October 27, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,ABQ,"October 18, 2024",NA,NA,19,Months,13.5,Months,"April 05, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,ANC,"October 18, 2024",NA,NA,20,Months,16,Months,"March 06, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,ATL,"October 18, 2024",NA,NA,36.5,Months,25.5,Months,"October 21, 2021",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,BAL,"October 18, 2024",NA,NA,48,Months,34.5,Months,"November 11, 2020",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,BOI,"October 18, 2024",NA,NA,18,Months,12,Months,"May 13, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,BOS,"October 18, 2024",NA,NA,22,Months,15,Months,"January 01, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,BNY,"October 18, 2024",NA,NA,31.5,Months,16.5,Months,"March 22, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,BUF,"October 18, 2024",NA,NA,17.5,Months,13.5,Months,"May 17, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,STA,"October 18, 2024",NA,NA,15,Months,10,Months,"August 03, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CHL,"October 18, 2024",NA,NA,34.5,Months,28,Months,"December 23, 2021",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CHA,"October 18, 2024",NA,NA,25,Months,15.5,Months,"October 02, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CLT,"October 18, 2024",NA,NA,32.5,Months,20,Months,"February 26, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CHI,"October 18, 2024",NA,NA,37.5,Months,22,Months,"September 17, 2021",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CHR,"October 18, 2024",NA,NA,5.5,Months,5,Months,"June 08, 2024",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CIN,"October 18, 2024",NA,NA,24,Months,18.5,Months,"November 09, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CLE,"October 18, 2024",NA,NA,20.5,Months,15.5,Months,"February 16, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,CLM,"October 18, 2024",NA,NA,16.5,Months,13,Months,"June 23, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,NJC,"October 18, 2024",NA,NA,25.5,Months,16,Months,"September 16, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,DAL,"October 18, 2024",NA,NA,31.5,Months,15.5,Months,"March 20, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,DEN,"October 18, 2024",NA,NA,26.5,Months,17.5,Months,"August 26, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,DSM,"October 18, 2024",NA,NA,26,Months,20,Months,"September 02, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,DET,"October 18, 2024",NA,NA,17,Months,12,Months,"June 05, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,ELP,"October 18, 2024",NA,NA,15,Months,9,Months,"August 01, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,OFM,"October 18, 2024",NA,NA,33.5,Months,25,Months,"January 29, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,FSA,"October 18, 2024",NA,NA,17,Months,12.5,Months,"June 12, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,FRE,"October 18, 2024",NA,NA,23,Months,16,Months,"December 12, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,GRR,"October 18, 2024",NA,NA,23,Months,15.5,Months,"December 13, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,HLG,"October 18, 2024",NA,NA,21.5,Months,14,Months,"January 22, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,HAR,"October 18, 2024",NA,NA,25.5,Months,15,Months,"September 20, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,HEL,"October 18, 2024",NA,NA,25.5,Months,18.5,Months,"September 18, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,HIA,"October 18, 2024",NA,NA,21,Months,14,Months,"February 03, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,HHW,"October 18, 2024",NA,NA,22,Months,14.5,Months,"January 10, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,HOU,"October 18, 2024",NA,NA,31.5,Months,23,Months,"March 27, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,IMP,"October 18, 2024",NA,NA,20,Months,16,Months,"March 15, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,INP,"October 18, 2024",NA,NA,24,Months,16,Months,"November 05, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,JAC,"October 18, 2024",NA,NA,37.5,Months,23,Months,"September 26, 2021",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,KAN,"October 18, 2024",NA,NA,28.5,Months,18.5,Months,"June 22, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,KND,"October 18, 2024",NA,NA,24,Months,16,Months,"November 06, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,LVG,"October 18, 2024",NA,NA,27.5,Months,17,Months,"July 21, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,LAW,"October 18, 2024",NA,NA,23.5,Months,15,Months,"November 28, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,LNY,"October 18, 2024",NA,NA,20,Months,12.5,Months,"March 05, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,LOS,"October 18, 2024",NA,NA,21,Months,13,Months,"February 11, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,LAC,"October 18, 2024",NA,NA,19,Months,13.5,Months,"April 10, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,LOU,"October 18, 2024",NA,NA,23,Months,16.5,Months,"December 01, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,MAN,"October 18, 2024",NA,NA,19.5,Months,16.5,Months,"March 19, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,MEM,"October 18, 2024",NA,NA,14.5,Months,10,Months,"August 27, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,MIA,"October 18, 2024",NA,NA,49,Months,26,Months,"October 07, 2020",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,MIL,"October 18, 2024",NA,NA,29.5,Months,18,Months,"May 23, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SPM,"October 18, 2024",NA,NA,31,Months,16,Months,"April 11, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,MGA,"October 18, 2024",NA,NA,22,Months,11.5,Months,"January 10, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,MTL,"October 18, 2024",NA,NA,28,Months,18.5,Months,"July 11, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,NTN,"October 18, 2024",NA,NA,33.5,Months,22.5,Months,"January 27, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,NEW,"October 18, 2024",NA,NA,31,Months,17.5,Months,"April 07, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,NOL,"October 18, 2024",NA,NA,50.5,Months,35,Months,"August 19, 2020",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,NYC,"October 18, 2024",NA,NA,23.5,Months,13.5,Months,"November 22, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,NOR,"October 18, 2024",NA,NA,44.5,Months,31.5,Months,"February 18, 2021",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,OKL,"October 18, 2024",NA,NA,36.5,Months,24.5,Months,"October 28, 2021",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,OKC,"October 18, 2024",NA,NA,21.5,Months,15,Months,"January 18, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,OMA,"October 18, 2024",NA,NA,19.5,Months,12.5,Months,"March 30, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,ORL,"October 18, 2024",NA,NA,28.5,Months,18,Months,"June 24, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,PHI,"October 18, 2024",NA,NA,20,Months,14,Months,"March 14, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,PHO,"October 18, 2024",NA,NA,22.5,Months,13.5,Months,"December 20, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,PIT,"October 18, 2024",NA,NA,19.5,Months,14.5,Months,"March 21, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,POM,"October 18, 2024",NA,NA,21,Months,19,Months,"January 31, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,POO,"October 18, 2024",NA,NA,24.5,Months,15,Months,"October 27, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,PRO,"October 18, 2024",NA,NA,20.5,Months,13,Months,"February 20, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,QNS,"October 18, 2024",NA,NA,25.5,Months,15,Months,"September 18, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,RAL,"October 18, 2024",NA,NA,33,Months,22.5,Months,"February 06, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,REN,"October 18, 2024",NA,NA,22.5,Months,16,Months,"December 17, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SAC,"October 18, 2024",NA,NA,24,Months,16,Months,"November 04, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,STL,"October 18, 2024",NA,NA,17.5,Months,11.5,Months,"May 31, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SLC,"October 18, 2024",NA,NA,35,Months,30,Months,"December 06, 2021",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SNA,"October 18, 2024",NA,NA,24.5,Months,16,Months,"October 21, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SBD,"October 18, 2024",NA,NA,17.5,Months,12,Months,"May 19, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SND,"October 18, 2024",NA,NA,30.5,Months,17,Months,"April 26, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SFV,"October 18, 2024",NA,NA,19.5,Months,12,Months,"March 31, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SFR,"October 18, 2024",NA,NA,28,Months,15.5,Months,"July 10, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SNJ,"October 18, 2024",NA,NA,19.5,Months,13,Months,"March 27, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SAJ,"October 18, 2024",NA,NA,31,Months,21.5,Months,"April 13, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SAA,"October 18, 2024",NA,NA,17.5,Months,12.5,Months,"May 23, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SEA,"October 18, 2024",NA,NA,28,Months,14.5,Months,"July 04, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,SPO,"October 18, 2024",NA,NA,19,Months,16,Months,"April 10, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,TAM,"October 18, 2024",NA,NA,21.5,Months,16,Months,"January 24, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,TUC,"October 18, 2024",NA,NA,16,Months,12,Months,"July 12, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,WAS,"October 18, 2024",NA,NA,30.5,Months,22.5,Months,"April 18, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,WPB,"October 18, 2024",NA,NA,28,Months,17,Months,"July 13, 2022",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,WIC,"October 18, 2024",NA,NA,21,Months,15,Months,"February 01, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-FAM,YAK,"October 18, 2024",NA,NA,19,Months,11.5,Months,"April 12, 2023",Family-Based adjustment applications,Ajuste de estatus basado en la familia
+I-485,131A-HRIFA,NSC,"October 18, 2024",NA,NA,63,Months,39.5,Months,"August 10, 2019",All other applications,Todas las demás solicitudes
+I-485,131B,FOD,"October 18, 2024",NA,NA,33,Months,16,Months,"February 03, 2022",Based on grant of asylum more than 1 year ago,Basadas en la concesión del asilo hace más de 1 año
+I-485,131C,FOD,"October 18, 2024",NA,NA,24.5,Months,16,Months,"October 24, 2022",Based on refugee admission more than 1 year ago,Basadas en la admisión del refugiado hace más de 1 año
+I-485,131T,ESC,"October 18, 2024",NA,NA,42.5,Months,36.5,Months,"May 01, 2021",Based on an approved T Visa,Basada en una visa T aprobada
+I-485,131U,NSC,"October 18, 2024",NA,NA,17.5,Months,14,Months,"May 23, 2023",Based on an approved U Visa,Basada en una visa U aprobada
+I-485,131U,ESC,"October 18, 2024",NA,NA,38.5,Months,30,Months,"August 16, 2021",Based on an approved U Visa,Basada en una visa U aprobada
+I-526,133CN,IPO,"October 18, 2024",NA,NA,96,Months,91.5,Months,"November 12, 2016",China - mainland born - For use by an investor who wishes to immigrate to the United States,China - nacido en el país - Para uso de un inversionista que desea inmigrar a Estados Unidos
+I-526,133ROW,IPO,"October 18, 2024",NA,NA,65,Months,57,Months,"June 13, 2019",All other areas - For use by an investor who wishes to immigrate to the United States,Todas las demás áreas - Para uso de un inversionista que desea inmigrar a Estados Unidos
+I-539,139A-B,CSC,"October 18, 2024",NA,NA,5,Months,3,Months,"June 05, 2024",Change of status to B nonimmigrant,Cambio de estatus al de no inmigrante B
+I-539,139A-B,NSC,"October 18, 2024",NA,NA,5,Months,3,Months,"June 08, 2024",Change of status to B nonimmigrant,Cambio de estatus al de no inmigrante B
+I-539,139A-B,YSC,"October 18, 2024",NA,NA,4.5,Months,3.5,Months,"June 17, 2024",Change of status to B nonimmigrant,Cambio de estatus al de no inmigrante B
+I-539,139A-B,SSC,"October 18, 2024",NA,NA,5,Months,4.5,Months,"June 11, 2024",Change of status to B nonimmigrant,Cambio de estatus al de no inmigrante B
+I-539,139A-B,ESC,"October 18, 2024",NA,NA,6.5,Months,5.5,Months,"April 20, 2024",Change of status to B nonimmigrant,Cambio de estatus al de no inmigrante B
+I-539,139AC-H,CSC,"October 18, 2024",NA,NA,4.5,Months,4,Months,"June 20, 2024",Change of status to H4 dependent with I-765,Cambio de estatus al de dependiente H-4 con I-765
+I-539,139AC-H,NSC,"October 18, 2024",NA,NA,6,Months,2.5,Months,"May 10, 2024",Change of status to H4 dependent with I-765,Cambio de estatus al de dependiente H-4 con I-765
+I-539,139AC-H,SSC,"October 18, 2024",NA,NA,7,Months,3.5,Months,"April 13, 2024",Change of status to H4 dependent with I-765,Cambio de estatus al de dependiente H-4 con I-765
+I-539,139AC-H,ESC,"October 18, 2024",NA,NA,7.5,Months,7,Months,"March 16, 2024",Change of status to H4 dependent with I-765,Cambio de estatus al de dependiente H-4 con I-765
+I-539,139A-FMJ,CSC,"October 18, 2024",NA,NA,4,Months,3,Months,"July 13, 2024",Change of status to F or M student or J exchange visitor category,Cambio de estatus al de estudiante F o M o al de categoría de visitante de intercambio J
+I-539,139A-FMJ,NSC,"October 18, 2024",NA,NA,7.5,Months,4,Months,"March 31, 2024",Change of status to F or M student or J exchange visitor category,Cambio de estatus al de estudiante F o M o al de categoría de visitante de intercambio J
+I-539,139A-FMJ,YSC,"October 18, 2024",NA,NA,5,Months,4.5,Months,"June 01, 2024",Change of status to F or M student or J exchange visitor category,Cambio de estatus al de estudiante F o M o al de categoría de visitante de intercambio J
+I-539,139A-FMJ,SSC,"October 18, 2024",NA,NA,5,Months,4.5,Months,"June 02, 2024",Change of status to F or M student or J exchange visitor category,Cambio de estatus al de estudiante F o M o al de categoría de visitante de intercambio J
+I-539,139A-FMJ,ESC,"October 18, 2024",NA,NA,7.5,Months,7,Months,"March 18, 2024",Change of status to F or M student or J exchange visitor category,Cambio de estatus al de estudiante F o M o al de categoría de visitante de intercambio J
+I-539,139A-H,CSC,"October 18, 2024",NA,NA,5,Months,4,Months,"June 09, 2024",Change of status to H4 dependents,Cambio de estatus al de dependiente H-4
+I-539,139A-H,NSC,"October 18, 2024",NA,NA,6.5,Months,3,Months,"April 29, 2024",Change of status to H4 dependents,Cambio de estatus al de dependiente H-4
+I-539,139A-H,SSC,"October 18, 2024",NA,NA,7.5,Months,5.5,Months,"March 18, 2024",Change of status to H4 dependents,Cambio de estatus al de dependiente H-4
+I-539,139A-H,ESC,"October 18, 2024",NA,NA,8,Months,7.5,Months,"March 04, 2024",Change of status to H4 dependents,Cambio de estatus al de dependiente H-4
+I-539,139A-L,CSC,"October 18, 2024",NA,NA,9.5,Months,5.5,Months,"January 18, 2024",Change of status to L dependent,Cambio de estatus al de dependiente L
+I-539,139A-L,SSC,"October 18, 2024",NA,NA,7.5,Months,6,Months,"March 19, 2024",Change of status to L dependent,Cambio de estatus al de dependiente L
+I-539,139A-OTH,CSC,"October 18, 2024",NA,NA,8,Months,5,Months,"March 01, 2024",All other change of status applications,Todas las demás solicitudes de cambio de estatus
+I-539,139A-OTH,NBC,"October 18, 2024",NA,NA,2.5,Months,1,Week,"August 16, 2024",All other change of status applications,Todas las demás solicitudes de cambio de estatus
+I-539,139A-OTH,NSC,"October 18, 2024",NA,NA,8,Months,5.5,Months,"March 09, 2024",All other change of status applications,Todas las demás solicitudes de cambio de estatus
+I-539,139A-OTH,YSC,"October 18, 2024",NA,NA,7.5,Months,6.5,Months,"March 17, 2024",All other change of status applications,Todas las demás solicitudes de cambio de estatus
+I-539,139A-OTH,ESC,"October 18, 2024",NA,NA,7.5,Months,6.5,Months,"March 18, 2024",All other change of status applications,Todas las demás solicitudes de cambio de estatus
+I-539,139B-B,CSC,"October 18, 2024",NA,NA,4,Months,3,Months,"July 03, 2024",Extension of stay for B nonimmigrant,Extensión de estadía para no inmigrante B
+I-539,139B-B,NSC,"October 18, 2024",NA,NA,7.5,Months,4,Months,"March 19, 2024",Extension of stay for B nonimmigrant,Extensión de estadía para no inmigrante B
+I-539,139B-B,YSC,"October 18, 2024",NA,NA,5,Months,3.5,Months,"June 11, 2024",Extension of stay for B nonimmigrant,Extensión de estadía para no inmigrante B
+I-539,139B-B,SSC,"October 18, 2024",NA,NA,4.5,Months,4,Months,"June 16, 2024",Extension of stay for B nonimmigrant,Extensión de estadía para no inmigrante B
+I-539,139B-B,ESC,"October 18, 2024",NA,NA,6.5,Months,5.5,Months,"April 23, 2024",Extension of stay for B nonimmigrant,Extensión de estadía para no inmigrante B
+I-539,139BC-H,CSC,"October 18, 2024",NA,NA,4,Months,3,Months,"July 06, 2024",Extension of stay for H4 dependents with I-765,Extensión de estadía para dependientes H-4 con I-765
+I-539,139BC-H,NSC,"October 18, 2024",NA,NA,3.5,Months,1.5,Months,"July 24, 2024",Extension of stay for H4 dependents with I-765,Extensión de estadía para dependientes H-4 con I-765
+I-539,139BC-H,SSC,"October 18, 2024",NA,NA,3,Months,2,Months,"August 04, 2024",Extension of stay for H4 dependents with I-765,Extensión de estadía para dependientes H-4 con I-765
+I-539,139BC-H,ESC,"October 18, 2024",NA,NA,5.5,Months,3.5,Months,"May 23, 2024",Extension of stay for H4 dependents with I-765,Extensión de estadía para dependientes H-4 con I-765
+I-539,139B-FMJ,CSC,"October 18, 2024",NA,NA,3,Months,2,Months,"August 07, 2024",Extension of stay for F or M students and J exchange visitor category,Extensión de estadía para estudiantes F o M y para visitantes de intercambio J
+I-539,139B-FMJ,NSC,"October 18, 2024",NA,NA,5.5,Months,3,Months,"May 21, 2024",Extension of stay for F or M students and J exchange visitor category,Extensión de estadía para estudiantes F o M y para visitantes de intercambio J
+I-539,139B-FMJ,YSC,"October 18, 2024",NA,NA,5,Months,3.5,Months,"June 13, 2024",Extension of stay for F or M students and J exchange visitor category,Extensión de estadía para estudiantes F o M y para visitantes de intercambio J
+I-539,139B-FMJ,SSC,"October 18, 2024",NA,NA,5,Months,4,Months,"June 11, 2024",Extension of stay for F or M students and J exchange visitor category,Extensión de estadía para estudiantes F o M y para visitantes de intercambio J
+I-539,139B-FMJ,ESC,"October 18, 2024",NA,NA,6.5,Months,5,Months,"April 24, 2024",Extension of stay for F or M students and J exchange visitor category,Extensión de estadía para estudiantes F o M y para visitantes de intercambio J
+I-539,139B-H,CSC,"October 18, 2024",NA,NA,5,Months,4,Months,"June 11, 2024",Extension of stay for H4 dependents,Extensión de estadía para dependientes H-4
+I-539,139B-H,NSC,"October 18, 2024",NA,NA,5.5,Months,2.5,Months,"May 28, 2024",Extension of stay for H4 dependents,Extensión de estadía para dependientes H-4
+I-539,139B-H,SSC,"October 18, 2024",NA,NA,6,Months,2.5,Months,"May 07, 2024",Extension of stay for H4 dependents,Extensión de estadía para dependientes H-4
+I-539,139B-H,ESC,"October 18, 2024",NA,NA,7.5,Months,6,Months,"March 31, 2024",Extension of stay for H4 dependents,Extensión de estadía para dependientes H-4
+I-539,139B-L,CSC,"October 18, 2024",NA,NA,5,Months,4,Months,"June 03, 2024",Extension of stay for L dependents,Extensión de estadía para dependientes L
+I-539,139B-L,SSC,"October 18, 2024",NA,NA,7,Months,4.5,Months,"April 08, 2024",Extension of stay for L dependents,Extensión de estadía para dependientes L
+I-539,139B-OTH,CSC,"October 18, 2024",NA,NA,7.5,Months,5,Months,"March 23, 2024",All other extension of stay applications,Todas las demás solicitudes de extensión
+I-539,139B-OTH,NBC,"October 18, 2024",NA,NA,2.5,Months,1.5,Months,"August 16, 2024",All other extension of stay applications,Todas las demás solicitudes de extensión
+I-539,139B-OTH,NSC,"October 18, 2024",NA,NA,10.5,Months,6,Months,"December 29, 2023",All other extension of stay applications,Todas las demás solicitudes de extensión
+I-539,139B-OTH,YSC,"October 18, 2024",NA,NA,4.5,Months,4,Months,"June 22, 2024",All other extension of stay applications,Todas las demás solicitudes de extensión
+I-539,139B-OTH,ESC,"October 18, 2024",NA,NA,7,Months,6.5,Months,"April 02, 2024",All other extension of stay applications,Todas las demás solicitudes de extensión
+I-539,139B-T,ESC,"October 18, 2024",NA,NA,17.5,Months,15,Months,"May 31, 2023",Extension of stay for T nonimmigrant,Extensión de estadía para no inmigrante T
+I-539,139B-U,ESC,"October 18, 2024",NA,NA,31,Months,21,Months,"April 13, 2022",Extension of stay for U nonimmigrant,Extensión de estadía para no inmigrante U
+I-539,139C,CSC,"October 18, 2024",NA,NA,7,Months,5,Months,"April 01, 2024",Reinstatement to student status,Reinstalar el estatus de estudiante
+I-539,139C,ESC,"October 18, 2024",NA,NA,9.5,Months,8.5,Months,"January 30, 2024",Reinstatement to student status,Reinstalar el estatus de estudiante
+I-600,134B,NBC,"October 18, 2024",NA,NA,20,Months,15,Months,"March 10, 2023",U.S. citizen filing to adopt an orphan,Un ciudadano de los Estados Unidos adoptando a un huérfano
+I-600A,134-A,NBC,"October 18, 2024",NA,NA,16,Months,8,Months,"July 15, 2023",U.S. citizen who plans to adopt a foreign-born child,Un ciudadano de los Estados Unidos que intenta adoptar a un niño de origen extranjero
+I-601,144AB,NSC,"October 18, 2024",NA,NA,34,Months,29,Months,"January 07, 2022",Waiver of Grounds of Inadmissibility,Exención de Motivos de Inadmisibilidad
+I-601,144AB,NSC,"October 18, 2024",NA,NA,34,Months,29,Months,"January 07, 2022",Waiver of Grounds of Inadmissibility,Exención de Motivos de Inadmisibilidad
+I-601A,144AC,SCD,"October 18, 2024",NA,NA,45,Months,42.5,Months,"February 03, 2021",Provisional Waiver of Unlawful Presence,Exención Provisional de Presencia Física Ilegal
+I-612,144A,CSC,"October 18, 2024",NA,NA,19,Months,18,Months,"April 05, 2023",Application for a waiver of the 2-year foreign residence requirement based on exceptional hardship or persecution,Solicitud de Exoneración del requisito de dos años de residencia en el extranjero basada en dificultades expepcionales o la persecución
+I-612,144D,ESC,"October 18, 2024",NA,NA,4,Months,4,Weeks,"July 02, 2024",Application for a waiver of the 2-year foreign residence requirement,Solicitud de Exoneración del requisito de dos años de residencia en el extranjero
+I-730,145,SCD,"October 18, 2024",NA,NA,24.5,Months,9.5,Months,"October 18, 2022",Petition for accompanying family members of an asylee,"
+Solicitud para acompañar a miembros de la familia de un asilado"
+I-751,148A,SCD,"October 18, 2024",NA,NA,32.5,Months,30.5,Months,"February 16, 2022",Removal of lawful permanent resident conditions (spouses of U.S. citizens and lawful permanent residents),Retiro de las condiciones a residentes permanentes legales (esposos de los ciudadanos de EE.UU. y de los residentes permanentes legales)
+I-751,148A,FOD,"October 18, 2024",NA,NA,45.5,Months,30.5,Months,"January 25, 2021",Removal of lawful permanent resident conditions (spouses of U.S. citizens and lawful permanent residents),Retiro de las condiciones a residentes permanentes legales (esposos de los ciudadanos de EE.UU. y de los residentes permanentes legales)
+I-765,147-539C26,CSC,"October 18, 2024",NA,NA,5,Months,3.5,Months,"June 13, 2024",Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)],Basado en ser un cónyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]
+I-765,147-539C26,NSC,"October 18, 2024",NA,NA,4,Months,2,Months,"July 02, 2024",Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)],Basado en ser un cónyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]
+I-765,147-539C26,SSC,"October 18, 2024",NA,NA,6,Months,2.5,Months,"May 03, 2024",Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)],Basado en ser un cónyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]
+I-765,147-539C26,ESC,"October 18, 2024",NA,NA,6.5,Months,4,Months,"April 20, 2024",Based on being an H-4 spouse of an H-1B nonimmigrant (filed with I-539 H4) [(c)(26)],Basado en ser un cónyuge H-4 de un no inmigrante H-1B (presentado con el Formulario I-539 H4) [(c)(26)]
+I-765,147-A18,CSC,"October 18, 2024",NA,NA,19,Months,5.5,Months,"April 10, 2023",Based on being an L-2 spouse of an L-1 nonimmigrant [(a)(18)],Basado en ser un cónyuge L-2 de un no inmigrante L-1 [(a)(18)]
+I-765,147-A18,SSC,"October 18, 2024",NA,NA,20,Months,6,Months,"March 09, 2023",Based on being an L-2 spouse of an L-1 nonimmigrant [(a)(18)],Basado en ser un cónyuge L-2 de un no inmigrante L-1 [(a)(18)]
+I-765,147-A18,ESC,"October 18, 2024",NA,NA,49.5,Months,49,Months,"October 07, 2020",Based on being an L-2 spouse of an L-1 nonimmigrant [(a)(18)],Basado en ser un cónyuge L-2 de un no inmigrante L-1 [(a)(18)]
+I-765,147-A3,NSC,"October 18, 2024",NA,NA,4,Months,1,Week,"July 02, 2024",Based on being admitted as a Refugee [(a)(3)],Basado en haber sido admitido como refugiado [(a)(3)]
+I-765,147-A5,NSC,"October 18, 2024",NA,NA,11.5,Months,5.5,Months,"November 20, 2023",Based on an approved asylum application [(a)(5)],Basada en una solicitud de asilo aprobada [(a)(5)]
+I-765,147-A5,SSC,"October 18, 2024",NA,NA,10.5,Months,8,Months,"December 30, 2023",Based on an approved asylum application [(a)(5)],Basada en una solicitud de asilo aprobada [(a)(5)]
+I-765,147-C10,NBC,"October 18, 2024",NA,NA,19,Months,18.5,Months,"April 09, 2023",Application for Suspension of Deportation/Sec.244/NACARA/Cancel of Removal [(c)(10)],Solicitud de Suspensión de Deportación /Secc.244/NACARA/Cancelación de Remoción [(c)(10)]
+I-765,147-C11,NBC,"October 18, 2024",NA,NA,4.5,Months,1.5,Months,"June 27, 2024",Based on parole,Basado en el Permiso de Permanencia Temporal
+I-765,147-C18,NBC,"October 18, 2024",NA,NA,7,Months,4.5,Months,"April 09, 2024",Alien with Final Order of Deportation Under an OSUP [(c)(18)],Extranjero con una Orden Final de Deportación bajo un OSUP [(c)(18)]
+I-765,147-C26,CSC,"October 18, 2024",NA,NA,6,Months,4.5,Months,"May 10, 2024",Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)],"Basado en ser un cónyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]"
+I-765,147-C26,NSC,"October 18, 2024",NA,NA,7.5,Months,7,Months,"March 20, 2024",Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)],"Basado en ser un cónyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]"
+I-765,147-C26,SSC,"October 18, 2024",NA,NA,12,Months,11,Months,"November 02, 2023",Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)],"Basado en ser un cónyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]"
+I-765,147-C26,ESC,"October 18, 2024",NA,NA,9.5,Months,9,Months,"January 16, 2024",Based on being an H-4 spouse of an H-1B nonimmigrant (Standalone; not filed with I-539 H4) [(c)(26)],"Basado en ser un cónyuge de un no inmigrante H-1B (presentado independientemente, no con el I-539 H4) [(c)(26)]"
+I-765,147-C3,YSC,"October 18, 2024",NA,NA,5,Months,4.5,Months,"June 13, 2024",Based on a request by a qualified F-1 academic student [(c)(3)],Basada en una petición por un estudiante académico cualificado F-1 [(c)(3)]
+I-765,147-C33,CSC,"October 18, 2024",NA,NA,3.5,Months,7.5,Months,,"Based on an approved, concurrently filed, I-821D [(c)(33)]","Basado en un I-821D, Examen de acción diferida para llegadas Infancia (c)(33) aprobada y presentada simultáneamente"
+I-765,147-C33,NSC,"October 18, 2024",NA,NA,3.5,Months,4,Months,"July 17, 2024","Based on an approved, concurrently filed, I-821D [(c)(33)]","Basado en un I-821D, Examen de acción diferida para llegadas Infancia (c)(33) aprobada y presentada simultáneamente"
+I-765,147-C33,ESC,"October 18, 2024",NA,NA,3.5,Months,50,Months,"July 17, 2024","Based on an approved, concurrently filed, I-821D [(c)(33)]","Basado en un I-821D, Examen de acción diferida para llegadas Infancia (c)(33) aprobada y presentada simultáneamente"
+I-765,147-C8,SCD,"October 18, 2024",NA,NA,13,Months,12,Months,"October 05, 2023",Based on a pending asylum application [(c)(8)] -renewal/replacement,Basada en una solicitud de asilo pendiente [(c)(8)] -renovación/reemplazo
+I-765,147-C8I,SCD,"October 18, 2024",NA,NA,4,Weeks,4,Weeks,"October 05, 2024",Based on a pending asylum application [(c)(8)] – Initial Application,Basada en una solicitud de asilo pendiente [(c)(8)] - Solicitud Inicial
+I-765,147-C9,CSC,"October 18, 2024",NA,NA,6,Months,5.5,Months,"May 11, 2024",Based on a pending I-485 adjustment application [(c)(9)],Basada en una solicitud de ajuste pendiente  I-485 [(c)(9)]
+I-765,147-C9,NBC,"October 18, 2024",NA,NA,7,Months,6,Months,"April 13, 2024",Based on a pending I-485 adjustment application [(c)(9)],Basada en una solicitud de ajuste pendiente  I-485 [(c)(9)]
+I-765,147-C9,NSC,"October 18, 2024",NA,NA,5.5,Months,5,Months,"May 22, 2024",Based on a pending I-485 adjustment application [(c)(9)],Basada en una solicitud de ajuste pendiente  I-485 [(c)(9)]
+I-765,147-C9,SSC,"October 18, 2024",NA,NA,9.5,Months,5.5,Months,"January 27, 2024",Based on a pending I-485 adjustment application [(c)(9)],Basada en una solicitud de ajuste pendiente  I-485 [(c)(9)]
+I-765,147-C9,ESC,"October 18, 2024",NA,NA,9,Months,7.5,Months,"February 11, 2024",Based on a pending I-485 adjustment application [(c)(9)],Basada en una solicitud de ajuste pendiente  I-485 [(c)(9)]
+I-765,147-ELSAL,SSC,"October 18, 2024",NA,NA,11,Months,9,Months,"December 10, 2023","Based on TPS for El Salvador [(c)(19), (a)(12)]","Basada en el TPS para El Salvador [(c)(19), (a)(12)]"
+I-765,147-ELSAL,ESC,"October 18, 2024",NA,NA,12.5,Months,11.5,Months,"October 25, 2023","Based on TPS for El Salvador [(c)(19), (a)(12)]","Basada en el TPS para El Salvador [(c)(19), (a)(12)]"
+I-765,147-HAITI,CSC,"October 18, 2024",NA,NA,16,Months,14,Months,"July 09, 2023","Haiti extension [(c)(19), (a)(12)]","Extensión - Haití [(c)(19), (a)(12)]"
+I-765,147-OTH,CSC,"October 18, 2024",NA,NA,14,Months,12,Months,"September 14, 2023",All other applications for employment authorization,Todas las demás solicitudes para autorización de empleo
+I-765,147-OTH,NBC,"October 18, 2024",NA,NA,5.5,Months,4,Months,"May 23, 2024",All other applications for employment authorization,Todas las demás solicitudes para autorización de empleo
+I-765,147-OTH,NSC,"October 18, 2024",NA,NA,15.5,Months,11.5,Months,"July 29, 2023",All other applications for employment authorization,Todas las demás solicitudes para autorización de empleo
+I-765,147-OTH,YSC,"October 18, 2024",NA,NA,8,Months,4.5,Months,"March 09, 2024",All other applications for employment authorization,Todas las demás solicitudes para autorización de empleo
+I-765,147-OTH,SSC,"October 18, 2024",NA,NA,6,Months,3,Months,"May 14, 2024",All other applications for employment authorization,Todas las demás solicitudes para autorización de empleo
+I-765,147-OTH,ESC,"October 18, 2024",NA,NA,12.5,Months,11,Months,"October 16, 2023",All other applications for employment authorization,Todas las demás solicitudes para autorización de empleo
+I-765V,147-V,ESC,"October 18, 2024",NA,NA,14,Months,10,Months,"September 03, 2023","Abused spouse of an A, E-3, G, or H nonimmigrant [(c)(27-30)]",Todas las demás solicitudes para autorización de empleo [(c)(27-30)]
+I-800,800M,NBC,"October 18, 2024",NA,NA,9.5,Months,4,Months,"January 20, 2024",Petition to Classify Convention Adoptee as an Immediate Relative,Petición para Clasificar a un Adoptado de Convención como Familiar Inmediato
+I-800A,800A,NBC,"October 18, 2024",NA,NA,6.5,Months,4.5,Months,"April 30, 2024",Application for Determination of Suitability to Adopt a Child from a Convention Country,Solicitud de Determinación de idoneidad para adoptar un niño de un país de la Convención
+I-817,150,NBC,"October 18, 2024",NA,NA,54.5,Months,33,Months,"April 27, 2020",Voluntary departure under the family unity program,Salida voluntaria bajo programa de la unidad de la familia
+I-817,150,SSC,"October 18, 2024",NA,NA,19.5,Months,11,Months,"March 30, 2023",Voluntary departure under the family unity program,Salida voluntaria bajo programa de la unidad de la familia
+I-821,821AF_I,ESC,"October 18, 2024",NA,NA,16,Months,14.5,Months,"July 09, 2023",Afghanistan Initial,Inscripción Inicial para Afghanistan
+I-821,821AF_R,ESC,"October 18, 2024",NA,NA,7.5,Months,6.5,Months,"March 26, 2024",Afghanistan Re-registration,Reinscripción para Afghanistan
+I-821,821MM_I,CSC,"October 18, 2024",NA,NA,6,Months,4.5,Months,"May 13, 2024",Burma Initial,Inscripción Inicial para Birmania
+I-821,821MM_R,CSC,"October 18, 2024",NA,NA,5.5,Months,4.5,Months,"May 30, 2024",Burma Re-registration,Reinscripción para Birmania
+I-821,821CA_I,NSC,"October 18, 2024",NA,NA,20,Months,17,Months,"March 02, 2023",Cameroon Initial,Inscripción Inicial para Cameroon
+I-821,821CA_R,NSC,"October 18, 2024",NA,NA,8.5,Months,7,Months,"February 28, 2024",Cameroon Re-registration,Reinscripción para Cameroon
+I-821,821SV_I,SSC,"October 18, 2024",NA,NA,11.5,Months,9,Months,"November 30, 2023",El Salvador Initial,Inscripción Inicial para El Salvador
+I-821,821SV_I,ESC,"October 18, 2024",NA,NA,18.5,Months,12.5,Months,"April 22, 2023",El Salvador Initial,Inscripción Inicial para El Salvador
+I-821,821SV_R,NSC,"October 18, 2024",NA,NA,12.5,Months,12,Months,"October 26, 2023",El Salvador Re-registration,Reinscripción para El Salvador
+I-821,821SV_R,SSC,"October 18, 2024",NA,NA,10.5,Months,9,Months,"December 29, 2023",El Salvador Re-registration,Reinscripción para El Salvador
+I-821,821SV_R,ESC,"October 18, 2024",NA,NA,12.5,Months,11.5,Months,"October 26, 2023",El Salvador Re-registration,Reinscripción para El Salvador
+I-821,821HT_I,CSC,"October 18, 2024",NA,NA,5,Months,2.5,Months,"June 05, 2024",Haiti Initial,Inscripción Inicial para Haití
+I-821,821HT_R,CSC,"October 18, 2024",NA,NA,16.5,Months,16,Months,"July 04, 2023",Haiti Re-registration,Reinscripción para Haití
+I-821,821HN_I,ESC,"October 18, 2024",NA,NA,18,Months,13,Months,"May 13, 2023",Honduras Initial,Inscripción Inicial para Honduras
+I-821,821HN_R,ESC,"October 18, 2024",NA,NA,9.5,Months,9,Months,"January 18, 2024",Honduras Re-registration,Reinscripción para Honduras
+I-821,821NP_I,NSC,"October 18, 2024",NA,NA,16,Months,12.5,Months,"July 14, 2023",Nepal Initial,Inscripción Inicial para Nepal
+I-821,821NP_R,NSC,"October 18, 2024",NA,NA,8,Months,5.5,Months,"March 03, 2024",Nepal Re-registration,Reinscripción para Nepal
+I-821,821NI_I,SSC,"October 18, 2024",NA,NA,6,Months,3,Months,"May 06, 2024",Nicaragua Initial,Inscripción Inicial para Nicaragua
+I-821,821NI_R,SSC,"October 18, 2024",NA,NA,6,Months,5,Months,"May 02, 2024",Nicaragua Re-registration,Reinscripción para Nicaragua
+I-821,821SO_I,ESC,"October 18, 2024",NA,NA,18.5,Months,15,Months,"April 22, 2023",Somalia Initial,Inscripción Inicial para Somalia
+I-821,821SO_R,ESC,"October 18, 2024",NA,NA,67,Months,33,Months,"April 08, 2019",Somalia Re-registration,Reinscripción para Somalia
+I-821,821SS_I,ESC,"October 18, 2024",NA,NA,14.5,Months,10,Months,"August 18, 2023",South Sudan Initial,Inscripción Inicial para Sudán del Sur
+I-821,821SS_R,ESC,"October 18, 2024",NA,NA,27,Months,26.5,Months,"August 22, 2022",South Sudan Re-registration,Reinscripción para Sudán del Sur
+I-821,821SD_I,ESC,"October 18, 2024",NA,NA,10,Months,8.5,Months,"January 09, 2024",Sudan Initial,Inscripción Inicial para Sudán
+I-821,821SD_R,ESC,"October 18, 2024",NA,NA,9.5,Months,7.5,Months,"January 30, 2024",Sudan Re-registration,Reinscripción para Sudán
+I-821,821SY_I,ESC,"October 18, 2024",NA,NA,30.5,Months,8,Months,"April 29, 2022",Syria Initial,Inscripción Inicial para Siria
+I-821,821SY_R,ESC,"October 18, 2024",NA,NA,6,Months,5.5,Months,"May 11, 2024",Syria Re-registration,Reinscripción para Siria
+I-821,821UA_I,NSC,"October 18, 2024",NA,NA,11.5,Months,11,Months,"November 17, 2023",Ukraine Initial,Inscripción Inicial para Ucrania
+I-821,821UA_R,NSC,"October 18, 2024",NA,NA,12,Months,11.5,Months,"November 01, 2023",Ukraine Re-registration,Reinscripción para Ucrania
+I-821,821VE_I,YSC,"October 18, 2024",NA,NA,8.5,Months,7.5,Months,"February 28, 2024",Venezuela Initial,Inscripción Inicial para Venezuela
+I-821,821VE_R,YSC,"October 18, 2024",NA,NA,17.5,Months,5.5,Months,"May 24, 2023",Venezuela Re-registration,Reinscripción para Venezuela
+I-821,821YE_I,ESC,"October 18, 2024",NA,NA,19,Months,6.5,Months,"April 08, 2023",Yemen Initial,Inscripción Inicial para Yemen
+I-821,821YE_R,ESC,"October 18, 2024",NA,NA,11.5,Months,2,Months,"November 26, 2023",Yemen Re-registration,Reinscripción para Yemen
+I-821D,149-CAT,NSC,"October 18, 2024",NA,NA,NA,NA,NA,NA,"July 17, 2024",Renewal,Renovación
+I-821D,149-CAT,ESC,"October 18, 2024",NA,NA,NA,NA,NA,NA,"July 17, 2024",Renewal,Renovación
+I-821D,149-ECA,CSC,"October 18, 2024",NA,NA,NA,NA,NA,NA,,Request for Deferred Action,Solicitud para Acción Diferida
+I-821D,149-ECA,ESC,"October 18, 2024",NA,NA,NA,NA,NA,NA,,Request for Deferred Action,Solicitud para Acción Diferida
+I-824,153,CSC,"October 18, 2024",NA,NA,6.5,Months,5.5,Months,"April 29, 2024",To request further action on an approved application or petition,Para solicitar acción adicional en una solicitud o una petición aprobada
+I-824,153,NBC,"October 18, 2024",NA,NA,12,Months,3.5,Months,"November 06, 2023",To request further action on an approved application or petition,Para solicitar acción adicional en una solicitud o una petición aprobada
+I-824,153,NSC,"October 18, 2024",NA,NA,10,Months,8.5,Months,"January 13, 2024",To request further action on an approved application or petition,Para solicitar acción adicional en una solicitud o una petición aprobada
+I-824,153,YSC,"October 18, 2024",NA,NA,14,Months,11,Months,"September 06, 2023",To request further action on an approved application or petition,Para solicitar acción adicional en una solicitud o una petición aprobada
+I-824,153,SSC,"October 18, 2024",NA,NA,16,Months,12.5,Months,"July 03, 2023",To request further action on an approved application or petition,Para solicitar acción adicional en una solicitud o una petición aprobada
+I-824,153,ESC,"October 18, 2024",NA,NA,24,Months,18,Months,"November 06, 2022",To request further action on an approved application or petition,Para solicitar acción adicional en una solicitud o una petición aprobada
+I-829,148C,IPO,"October 18, 2024",NA,NA,65.5,Months,54.5,Months,"June 01, 2019",Removal of lawful permanent resident conditions (immigrant investors),Retiro de las condiciones a residentes permanentes legales (inversionistas inmigrantes)
+I-90,140A,YSC,"October 18, 2024",NA,NA,29,Months,22,Months,"June 08, 2022",Initial issuance or replacement,Emisión o reemplazo inicial
+I-90,140B,YSC,"October 18, 2024",NA,NA,29.5,Months,26,Months,"May 21, 2022",10-year renewal,Renovación de diez años
+I-914,914T,ESC,"October 18, 2024",NA,NA,21.5,Months,18,Months,"January 22, 2023",Provides temporary immigration benefits to noncitizen victims of trafficking and their eligible family members,Proporciona beneficios temporales de inmigración a no ciudadanos víctimas de la trata de personas y sus familiares elegibles
+I-918,918ABFD,SCD,"October 18, 2024",NA,NA,60,Months,54,Months,"November 06, 2019","Petition for a noncitizen who is a victim of qualifying criminal activity, and their qualifying family members (Time from Initial Filing to Bona Fide Determination (BFD) Review)",Petición para un no ciudadano que es una víctima de una actividad criminal cualificada y sus familiares elegibles (Tiempo para una Presentación Inicial de Evaluación de Determinación de Autenticidad (BFD))
+I-929,929,ESC,"October 18, 2024",NA,NA,43,Months,38.5,Months,"April 16, 2021",Family member of U nonimmigrant,Familiar de no inmigrante U
+I-956,956-A,IPO,"October 18, 2024",NA,NA,18.5,Months,15.5,Months,"April 25, 2023",Application for Regional Center Designation,Solicitud de Designación de Centro Regional
+I-956F,956,IPO,"October 18, 2024",NA,NA,20.5,Months,14.5,Months,"February 26, 2023",Application for Approval of an Investment in a Commercial Enterprise,Solicitud de Aprobación de una Inversión en una Empresa Comercial
+N-400,160A,AGA,"October 18, 2024",NA,NA,8.5,Months,5.5,Months,"February 26, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,ALB,"October 18, 2024",NA,NA,10,Months,7,Months,"January 03, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,ABQ,"October 18, 2024",NA,NA,9.5,Months,7.5,Months,"January 17, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,ANC,"October 18, 2024",NA,NA,12,Months,9,Months,"November 10, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,ATL,"October 18, 2024",NA,NA,11,Months,8,Months,"December 03, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,BAL,"October 18, 2024",NA,NA,11,Months,7,Months,"December 08, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,BOI,"October 18, 2024",NA,NA,8.5,Months,6,Months,"February 22, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,BOS,"October 18, 2024",NA,NA,15.5,Months,7,Months,"July 20, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,BNY,"October 18, 2024",NA,NA,10.5,Months,7.5,Months,"December 25, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,BUF,"October 18, 2024",NA,NA,11,Months,8.5,Months,"December 08, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,STA,"October 18, 2024",NA,NA,10,Months,8,Months,"January 07, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CHL,"October 18, 2024",NA,NA,12,Months,9,Months,"October 31, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CHA,"October 18, 2024",NA,NA,9.5,Months,7,Months,"January 23, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CLT,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 03, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CHI,"October 18, 2024",NA,NA,10.5,Months,7.5,Months,"December 22, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CHR,"October 18, 2024",NA,NA,13,Months,10,Months,"October 02, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CIN,"October 18, 2024",NA,NA,8,Months,6.5,Months,"March 01, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CLE,"October 18, 2024",NA,NA,7.5,Months,6,Months,"March 18, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,CLM,"October 18, 2024",NA,NA,9,Months,7,Months,"February 06, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,NJC,"October 18, 2024",NA,NA,11.5,Months,8.5,Months,"November 30, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,DAL,"October 18, 2024",NA,NA,9.5,Months,7,Months,"January 25, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,DEN,"October 18, 2024",NA,NA,11,Months,7.5,Months,"December 07, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,DSM,"October 18, 2024",NA,NA,10,Months,8.5,Months,"December 31, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,DET,"October 18, 2024",NA,NA,10,Months,7,Months,"January 08, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,ELP,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 12, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,OFM,"October 18, 2024",NA,NA,14.5,Months,12.5,Months,"August 30, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,FSA,"October 18, 2024",NA,NA,9.5,Months,8,Months,"January 20, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,FRE,"October 18, 2024",NA,NA,9.5,Months,7,Months,"January 17, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,GRR,"October 18, 2024",NA,NA,6.5,Months,5,Months,"April 16, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,HLG,"October 18, 2024",NA,NA,9.5,Months,7.5,Months,"January 25, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,HAR,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 09, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,HEL,"October 18, 2024",NA,NA,9,Months,6.5,Months,"February 02, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,HIA,"October 18, 2024",NA,NA,7.5,Months,6,Months,"March 16, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,HHW,"October 18, 2024",NA,NA,9.5,Months,6.5,Months,"January 27, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,HOU,"October 18, 2024",NA,NA,9,Months,7,Months,"February 03, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,IMP,"October 18, 2024",NA,NA,10.5,Months,8.5,Months,"December 23, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,INP,"October 18, 2024",NA,NA,9,Months,7,Months,"February 12, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,JAC,"October 18, 2024",NA,NA,13.5,Months,10.5,Months,"September 20, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,KAN,"October 18, 2024",NA,NA,10.5,Months,8.5,Months,"December 26, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,KND,"October 18, 2024",NA,NA,9,Months,6.5,Months,"February 01, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,LVG,"October 18, 2024",NA,NA,9,Months,7.5,Months,"February 01, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,LAW,"October 18, 2024",NA,NA,12,Months,9.5,Months,"November 01, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,LNY,"October 18, 2024",NA,NA,10.5,Months,8,Months,"December 20, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,LOS,"October 18, 2024",NA,NA,9.5,Months,7,Months,"January 18, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,LAC,"October 18, 2024",NA,NA,9.5,Months,7,Months,"January 30, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,LOU,"October 18, 2024",NA,NA,9.5,Months,7,Months,"January 26, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,MAN,"October 18, 2024",NA,NA,9,Months,7.5,Months,"February 10, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,MEM,"October 18, 2024",NA,NA,10,Months,8,Months,"December 31, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,MIA,"October 18, 2024",NA,NA,16.5,Months,7.5,Months,"June 30, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,MIL,"October 18, 2024",NA,NA,9,Months,7.5,Months,"February 07, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SPM,"October 18, 2024",NA,NA,9.5,Months,7.5,Months,"January 27, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,MGA,"October 18, 2024",NA,NA,13,Months,7.5,Months,"October 09, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,MTL,"October 18, 2024",NA,NA,11,Months,8.5,Months,"December 01, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,NTN,"October 18, 2024",NA,NA,15,Months,10.5,Months,"August 11, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,NEW,"October 18, 2024",NA,NA,11,Months,7,Months,"December 14, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,NOL,"October 18, 2024",NA,NA,16,Months,10.5,Months,"July 09, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,NYC,"October 18, 2024",NA,NA,9,Months,7.5,Months,"February 01, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,NOR,"October 18, 2024",NA,NA,15,Months,10.5,Months,"August 10, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,OKL,"October 18, 2024",NA,NA,10,Months,7,Months,"January 11, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,OKC,"October 18, 2024",NA,NA,9,Months,7,Months,"January 31, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,OMA,"October 18, 2024",NA,NA,9.5,Months,7.5,Months,"January 23, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,ORL,"October 18, 2024",NA,NA,13,Months,8,Months,"October 01, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,PHI,"October 18, 2024",NA,NA,9.5,Months,7.5,Months,"January 25, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,PHO,"October 18, 2024",NA,NA,8,Months,6.5,Months,"March 12, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,PIT,"October 18, 2024",NA,NA,8.5,Months,6.5,Months,"February 26, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,POM,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 06, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,POO,"October 18, 2024",NA,NA,9,Months,6.5,Months,"February 12, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,PRO,"October 18, 2024",NA,NA,9.5,Months,7.5,Months,"January 20, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,QNS,"October 18, 2024",NA,NA,9,Months,6.5,Months,"February 14, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,RAL,"October 18, 2024",NA,NA,10.5,Months,7,Months,"December 23, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,REN,"October 18, 2024",NA,NA,9,Months,7.5,Months,"February 08, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SAC,"October 18, 2024",NA,NA,15,Months,8.5,Months,"August 05, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,STL,"October 18, 2024",NA,NA,11,Months,8.5,Months,"December 12, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SLC,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 15, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SNA,"October 18, 2024",NA,NA,9,Months,7,Months,"February 11, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SBD,"October 18, 2024",NA,NA,9,Months,6.5,Months,"February 09, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SND,"October 18, 2024",NA,NA,10,Months,7,Months,"January 03, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SFV,"October 18, 2024",NA,NA,9.5,Months,6,Months,"January 20, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SFR,"October 18, 2024",NA,NA,10.5,Months,7,Months,"December 22, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SNJ,"October 18, 2024",NA,NA,8.5,Months,6.5,Months,"February 22, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SAJ,"October 18, 2024",NA,NA,8.5,Months,6.5,Months,"February 15, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SAA,"October 18, 2024",NA,NA,9,Months,6.5,Months,"February 02, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SEA,"October 18, 2024",NA,NA,7.5,Months,6,Months,"March 25, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,SPO,"October 18, 2024",NA,NA,8,Months,6.5,Months,"March 03, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,TAM,"October 18, 2024",NA,NA,10.5,Months,8.5,Months,"December 23, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,TUC,"October 18, 2024",NA,NA,9.5,Months,8,Months,"January 17, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,WAS,"October 18, 2024",NA,NA,10,Months,7,Months,"January 05, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,WPB,"October 18, 2024",NA,NA,10.5,Months,7.5,Months,"December 20, 2023",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,WIC,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 08, 2024",Application for Naturalization,Solicitud de Naturalización
+N-400,160A,YAK,"October 18, 2024",NA,NA,10,Months,6.5,Months,"January 11, 2024",Application for Naturalization,Solicitud de Naturalización
+N-565,165,NSC,"October 18, 2024",NA,NA,11.5,Months,7.5,Months,"November 27, 2023",U.S. citizen applying for a replacement of naturalization or citizenship certificate,Ciudadano estadounidense que solicita el reemplazo del certificado de naturalización o ciudadanía
+N-600,161A,AGA,"October 18, 2024",NA,NA,11,Months,7,Months,"December 07, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,ALB,"October 18, 2024",NA,NA,7,Months,4,Months,"April 10, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,ABQ,"October 18, 2024",NA,NA,15,Months,7,Months,"August 11, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,ANC,"October 18, 2024",NA,NA,15,Months,14.5,Months,"August 18, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,ATL,"October 18, 2024",NA,NA,9,Months,7,Months,"February 12, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,BAL,"October 18, 2024",NA,NA,13.5,Months,8.5,Months,"September 25, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,BOI,"October 18, 2024",NA,NA,8,Months,7.5,Months,"March 12, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,BOS,"October 18, 2024",NA,NA,25.5,Months,9,Months,"September 25, 2022",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,BNY,"October 18, 2024",NA,NA,8.5,Months,6.5,Months,"February 20, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,BUF,"October 18, 2024",NA,NA,15,Months,8.5,Months,"August 10, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,STA,"October 18, 2024",NA,NA,13,Months,7.5,Months,"October 06, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CHL,"October 18, 2024",NA,NA,4.5,Months,3.5,Months,"June 30, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CHA,"October 18, 2024",NA,NA,10,Months,9.5,Months,"January 28, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CLT,"October 18, 2024",NA,NA,7,Months,4,Months,"April 15, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CHI,"October 18, 2024",NA,NA,8,Months,5,Months,"March 04, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CHR,"October 18, 2024",NA,NA,13,Months,7,Months,"October 15, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CIN,"October 18, 2024",NA,NA,5.5,Months,4,Months,"May 27, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CLE,"October 18, 2024",NA,NA,12,Months,4.5,Months,"November 08, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,CLM,"October 18, 2024",NA,NA,6.5,Months,5,Months,"April 22, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,NJC,"October 18, 2024",NA,NA,5,Months,3.5,Months,"June 10, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,DAL,"October 18, 2024",NA,NA,10,Months,7.5,Months,"January 13, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,DEN,"October 18, 2024",NA,NA,14.5,Months,7,Months,"August 18, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,DSM,"October 18, 2024",NA,NA,7.5,Months,5.5,Months,"March 22, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,DET,"October 18, 2024",NA,NA,16.5,Months,10,Months,"June 29, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,ELP,"October 18, 2024",NA,NA,26.5,Months,15.5,Months,"August 24, 2022",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,OFM,"October 18, 2024",NA,NA,8,Months,4.5,Months,"March 02, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,FSA,"October 18, 2024",NA,NA,4,Months,3,Months,"July 02, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,FRE,"October 18, 2024",NA,NA,7.5,Months,4.5,Months,"March 30, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,GRR,"October 18, 2024",NA,NA,12,Months,5,Months,"November 13, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,HLG,"October 18, 2024",NA,NA,19,Months,10.5,Months,"April 11, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,HAR,"October 18, 2024",NA,NA,9,Months,7,Months,"February 02, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,HEL,"October 18, 2024",NA,NA,10,Months,6,Months,"January 11, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,HIA,"October 18, 2024",NA,NA,11.5,Months,5,Months,"November 17, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,HHW,"October 18, 2024",NA,NA,13,Months,3,Months,"October 15, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,HOU,"October 18, 2024",NA,NA,6.5,Months,5.5,Months,"April 20, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,IMP,"October 18, 2024",NA,NA,11,Months,8.5,Months,"December 05, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,INP,"October 18, 2024",NA,NA,6.5,Months,5,Months,"April 29, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,JAC,"October 18, 2024",NA,NA,13.5,Months,7,Months,"September 27, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,KAN,"October 18, 2024",NA,NA,13.5,Months,7.5,Months,"September 26, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,KND,"October 18, 2024",NA,NA,16,Months,10,Months,"July 11, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,LVG,"October 18, 2024",NA,NA,14,Months,11,Months,"September 10, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,LAW,"October 18, 2024",NA,NA,9.5,Months,6,Months,"January 24, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,LNY,"October 18, 2024",NA,NA,5,Months,3.5,Months,"June 07, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,LOS,"October 18, 2024",NA,NA,7.5,Months,4.5,Months,"March 17, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,LAC,"October 18, 2024",NA,NA,7.5,Months,4.5,Months,"March 28, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,LOU,"October 18, 2024",NA,NA,8.5,Months,5,Months,"February 26, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,MAN,"October 18, 2024",NA,NA,11,Months,9,Months,"December 02, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,MEM,"October 18, 2024",NA,NA,6.5,Months,4.5,Months,"April 16, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,MIA,"October 18, 2024",NA,NA,24.5,Months,14,Months,"October 25, 2022",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,MIL,"October 18, 2024",NA,NA,12.5,Months,11.5,Months,"October 18, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SPM,"October 18, 2024",NA,NA,18,Months,7,Months,"May 03, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,MGA,"October 18, 2024",NA,NA,29,Months,6,Months,"June 07, 2022",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,MTL,"October 18, 2024",NA,NA,15.5,Months,7,Months,"July 24, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,NTN,"October 18, 2024",NA,NA,7.5,Months,4.5,Months,"March 27, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,NEW,"October 18, 2024",NA,NA,14,Months,5,Months,"September 13, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,NOL,"October 18, 2024",NA,NA,24,Months,13,Months,"November 02, 2022",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,NYC,"October 18, 2024",NA,NA,6,Months,4.5,Months,"May 01, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,NOR,"October 18, 2024",NA,NA,5.5,Months,4,Months,"May 24, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,OKL,"October 18, 2024",NA,NA,16.5,Months,10.5,Months,"June 28, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,OKC,"October 18, 2024",NA,NA,8.5,Months,4.5,Months,"February 27, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,OMA,"October 18, 2024",NA,NA,16.5,Months,8,Months,"June 21, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,ORL,"October 18, 2024",NA,NA,17,Months,8.5,Months,"June 09, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,PHI,"October 18, 2024",NA,NA,8.5,Months,4.5,Months,"February 20, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,PHO,"October 18, 2024",NA,NA,29,Months,20.5,Months,"June 08, 2022",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,PIT,"October 18, 2024",NA,NA,7.5,Months,6.5,Months,"March 23, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,POM,"October 18, 2024",NA,NA,15,Months,14.5,Months,"August 16, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,POO,"October 18, 2024",NA,NA,10,Months,6,Months,"January 04, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,PRO,"October 18, 2024",NA,NA,5.5,Months,4.5,Months,"May 29, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,QNS,"October 18, 2024",NA,NA,9,Months,5,Months,"February 12, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,RAL,"October 18, 2024",NA,NA,7.5,Months,4,Months,"March 29, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,REN,"October 18, 2024",NA,NA,23,Months,15,Months,"December 15, 2022",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SAC,"October 18, 2024",NA,NA,9.5,Months,8.5,Months,"January 27, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,STL,"October 18, 2024",NA,NA,7.5,Months,4.5,Months,"March 25, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SLC,"October 18, 2024",NA,NA,9,Months,8,Months,"February 05, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SNA,"October 18, 2024",NA,NA,17,Months,10.5,Months,"June 01, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SBD,"October 18, 2024",NA,NA,6,Months,3.5,Months,"May 14, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SND,"October 18, 2024",NA,NA,41,Months,31,Months,"June 02, 2021",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SFV,"October 18, 2024",NA,NA,4.5,Months,3.5,Months,"June 29, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SFR,"October 18, 2024",NA,NA,7.5,Months,4,Months,"March 20, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SNJ,"October 18, 2024",NA,NA,5,Months,4,Months,"June 05, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SAJ,"October 18, 2024",NA,NA,12,Months,5,Months,"November 14, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SAA,"October 18, 2024",NA,NA,12,Months,6.5,Months,"November 15, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SEA,"October 18, 2024",NA,NA,11,Months,6.5,Months,"December 10, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,SPO,"October 18, 2024",NA,NA,10,Months,8.5,Months,"January 11, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,TAM,"October 18, 2024",NA,NA,5,Months,3.5,Months,"June 08, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,TUC,"October 18, 2024",NA,NA,17,Months,7,Months,"June 04, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,WAS,"October 18, 2024",NA,NA,16.5,Months,7.5,Months,"June 21, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,WPB,"October 18, 2024",NA,NA,13,Months,5,Months,"October 15, 2023",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,WIC,"October 18, 2024",NA,NA,5.5,Months,3.5,Months,"May 22, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600,161A,YAK,"October 18, 2024",NA,NA,9,Months,6,Months,"February 04, 2024",Application for recognition of U.S. citizenship,Solicitud para el reconocimiento de la ciudadanía estadounidense
+N-600K,161B,AGA,"October 18, 2024",NA,NA,57.5,Months,27,Months,"January 21, 2020",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,ALB,"October 18, 2024",NA,NA,38.5,Months,4,Months,"August 29, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,ABQ,"October 18, 2024",NA,NA,31,Months,15.5,Months,"April 06, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,ANC,"October 18, 2024",NA,NA,26.5,Months,26,Months,"September 09, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,ATL,"October 18, 2024",NA,NA,53,Months,14.5,Months,"June 07, 2020",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,BAL,"October 18, 2024",NA,NA,11.5,Months,6.5,Months,"November 29, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,BOI,"October 18, 2024",NA,NA,19.5,Months,15,Months,"March 24, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,BOS,"October 18, 2024",NA,NA,33.5,Months,18.5,Months,"January 27, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,BNY,"October 18, 2024",NA,NA,56,Months,24.5,Months,"March 09, 2020",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,BUF,"October 18, 2024",NA,NA,34.5,Months,25,Months,"December 30, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,STA,"October 18, 2024",NA,NA,28,Months,19,Months,"July 13, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CHL,"October 18, 2024",NA,NA,6,Months,4,Months,"May 11, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CHA,"October 18, 2024",NA,NA,4,Months,2.5,Months,"July 02, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CLT,"October 18, 2024",NA,NA,20.5,Months,12.5,Months,"February 21, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CHI,"October 18, 2024",NA,NA,18,Months,17.5,Months,"May 05, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CHR,"October 18, 2024",NA,NA,31,Months,15.5,Months,"April 06, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CIN,"October 18, 2024",NA,NA,10.5,Months,10,Months,"January 01, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CLE,"October 18, 2024",NA,NA,47,Months,36.5,Months,"December 02, 2020",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,CLM,"October 18, 2024",NA,NA,62,Months,61.5,Months,"September 19, 2019",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,NJC,"October 18, 2024",NA,NA,5.5,Months,5,Months,"June 04, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,DAL,"October 18, 2024",NA,NA,31,Months,30.5,Months,"April 30, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,DEN,"October 18, 2024",NA,NA,55.5,Months,42,Months,"March 23, 2020",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,DSM,"October 18, 2024",NA,NA,6.5,Months,6,Months,"April 16, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,DET,"October 18, 2024",NA,NA,24,Months,8,Months,"November 07, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,ELP,"October 18, 2024",NA,NA,5.5,Months,5,Months,"June 04, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,OFM,"October 18, 2024",NA,NA,4.5,Months,4,Months,"July 02, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,FSA,"October 18, 2024",NA,NA,31,Months,15.5,Months,"April 06, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,FRE,"October 18, 2024",NA,NA,12,Months,11.5,Months,"November 17, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,GRR,"October 18, 2024",NA,NA,10,Months,5.5,Months,"January 12, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,HLG,"October 18, 2024",NA,NA,26,Months,16,Months,"September 09, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,HAR,"October 18, 2024",NA,NA,16.5,Months,10,Months,"July 01, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,HEL,"October 18, 2024",NA,NA,12,Months,7.5,Months,"November 13, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,HIA,"October 18, 2024",NA,NA,22.5,Months,18.5,Months,"December 28, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,HHW,"October 18, 2024",NA,NA,19,Months,15.5,Months,"April 06, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,HOU,"October 18, 2024",NA,NA,12.5,Months,9.5,Months,"October 26, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,IMP,"October 18, 2024",NA,NA,11.5,Months,11,Months,"December 01, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,INP,"October 18, 2024",NA,NA,35.5,Months,29,Months,"November 26, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,JAC,"October 18, 2024",NA,NA,17.5,Months,17,Months,"May 31, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,KAN,"October 18, 2024",NA,NA,30,Months,17.5,Months,"May 08, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,KND,"October 18, 2024",NA,NA,30,Months,24.5,Months,"May 10, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,LVG,"October 18, 2024",NA,NA,59,Months,58.5,Months,"December 27, 2019",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,LAW,"October 18, 2024",NA,NA,13.5,Months,7.5,Months,"September 20, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,LNY,"October 18, 2024",NA,NA,18.5,Months,8.5,Months,"April 28, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,LOS,"October 18, 2024",NA,NA,13,Months,11,Months,"October 03, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,LAC,"October 18, 2024",NA,NA,20.5,Months,17,Months,"February 19, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,LOU,"October 18, 2024",NA,NA,7,Months,6,Months,"April 09, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,MAN,"October 18, 2024",NA,NA,19.5,Months,5.5,Months,"March 17, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,MEM,"October 18, 2024",NA,NA,39,Months,38.5,Months,"August 25, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,MIA,"October 18, 2024",NA,NA,39.5,Months,36.5,Months,"July 20, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,MIL,"October 18, 2024",NA,NA,11.5,Months,7,Months,"November 24, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SPM,"October 18, 2024",NA,NA,38.5,Months,29,Months,"August 23, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,MGA,"October 18, 2024",NA,NA,48.5,Months,48,Months,"November 07, 2020",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,MTL,"October 18, 2024",NA,NA,30.5,Months,14.5,Months,"April 26, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,NTN,"October 18, 2024",NA,NA,38,Months,31,Months,"September 09, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,NEW,"October 18, 2024",NA,NA,31.5,Months,25.5,Months,"March 23, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,NOL,"October 18, 2024",NA,NA,14.5,Months,14,Months,"September 14, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,NYC,"October 18, 2024",NA,NA,38.5,Months,31.5,Months,"August 24, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,NOR,"October 18, 2024",NA,NA,32,Months,19.5,Months,"March 15, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,OKL,"October 18, 2024",NA,NA,21.5,Months,17.5,Months,"January 24, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,OKC,"October 18, 2024",NA,NA,5,Months,4.5,Months,"June 27, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,OMA,"October 18, 2024",NA,NA,34.5,Months,34,Months,"January 12, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,ORL,"October 18, 2024",NA,NA,41.5,Months,32,Months,"May 31, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,PHI,"October 18, 2024",NA,NA,16,Months,10.5,Months,"July 04, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,PHO,"October 18, 2024",NA,NA,15.5,Months,13,Months,"July 20, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,PIT,"October 18, 2024",NA,NA,13,Months,12,Months,"October 05, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,POM,"October 18, 2024",NA,NA,10.5,Months,10,Months,"January 02, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,POO,"October 18, 2024",NA,NA,39,Months,18.5,Months,"August 13, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,PRO,"October 18, 2024",NA,NA,26.5,Months,21,Months,"August 24, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,QNS,"October 18, 2024",NA,NA,24,Months,17.5,Months,"November 10, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,RAL,"October 18, 2024",NA,NA,32.5,Months,25,Months,"February 24, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,REN,"October 18, 2024",NA,NA,16.5,Months,16,Months,"July 06, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SAC,"October 18, 2024",NA,NA,63.5,Months,59,Months,"July 28, 2019",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,STL,"October 18, 2024",NA,NA,33.5,Months,33,Months,"February 13, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SLC,"October 18, 2024",NA,NA,20,Months,18.5,Months,"March 13, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SNA,"October 18, 2024",NA,NA,29,Months,27.5,Months,"June 09, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SBD,"October 18, 2024",NA,NA,15.5,Months,8,Months,"July 19, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SND,"October 18, 2024",NA,NA,24.5,Months,11.5,Months,"October 27, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SFV,"October 18, 2024",NA,NA,22.5,Months,14.5,Months,"December 16, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SFR,"October 18, 2024",NA,NA,66.5,Months,8,Months,"April 23, 2019",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SNJ,"October 18, 2024",NA,NA,48.5,Months,37.5,Months,"October 16, 2020",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SAJ,"October 18, 2024",NA,NA,6,Months,5.5,Months,"May 18, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SAA,"October 18, 2024",NA,NA,30.5,Months,30,Months,"May 13, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SEA,"October 18, 2024",NA,NA,28,Months,24.5,Months,"July 16, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,SPO,"October 18, 2024",NA,NA,26.5,Months,18.5,Months,"August 29, 2022",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,TAM,"October 18, 2024",NA,NA,43,Months,25.5,Months,"April 13, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,TUC,"October 18, 2024",NA,NA,4,Months,3.5,Months,"July 02, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,WAS,"October 18, 2024",NA,NA,45.5,Months,35.5,Months,"January 16, 2021",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,WPB,"October 18, 2024",NA,NA,11.5,Months,7.5,Months,"November 27, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,WIC,"October 18, 2024",NA,NA,9,Months,8.5,Months,"February 22, 2024",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322
+N-600K,161B,YAK,"October 18, 2024",NA,NA,14.5,Months,6,Months,"August 23, 2023",Application for Citizenship and Issuance of Certificate Under Section 322,Solicitud de ciudadanía y emisión del certificado bajo la Sección 322

@@ -1,0 +1,707 @@
+form_name,form_type,office_code,office_description
+I-102,142,CSC,California Service Center
+I-102,142,NBC,National Benefits Center
+I-102,142,NSC,Nebraska Service Center
+I-102,142,SSC,Texas Service Center
+I-102,142,ESC,Vermont Service Center
+I-129,137-E,CSC,California Service Center
+I-129,137-E3,ESC,Vermont Service Center
+I-129,137-H1B1,CSC,California Service Center
+I-129,137-H1B1,SSC,Texas Service Center
+I-129,137-H1B1,ESC,Vermont Service Center
+I-129,137-H1B2,CSC,California Service Center
+I-129,137-H1B2,SSC,Texas Service Center
+I-129,137-H1B2,ESC,Vermont Service Center
+I-129,137-H1B3,CSC,California Service Center
+I-129,137-H1B3,NSC,Nebraska Service Center
+I-129,137-H1B3,SSC,Texas Service Center
+I-129,137-H1B3,ESC,Vermont Service Center
+I-129,137-H2A,CSC,California Service Center
+I-129,137-H2B,CSC,California Service Center
+I-129,137-H2B,ESC,Vermont Service Center
+I-129,137-H3,CSC,California Service Center
+I-129,137-H3,ESC,Vermont Service Center
+I-129,137-L,CSC,California Service Center
+I-129,137-L,SSC,Texas Service Center
+I-129,137-O,CSC,California Service Center
+I-129,137-O,ESC,Vermont Service Center
+I-129,137-P,CSC,California Service Center
+I-129,137-P,ESC,Vermont Service Center
+I-129,137-Q,CSC,California Service Center
+I-129,137-Q,ESC,Vermont Service Center
+I-129,137-R,CSC,California Service Center
+I-129,137-TN,ESC,Vermont Service Center
+I-129CW,129-CW1,CSC,California Service Center
+I-129F,134A-K,CSC,California Service Center
+I-129F,134A-K,NSC,Nebraska Service Center
+I-129F,134A-K,YSC,Potomac Service Center
+I-129F,134A-K,SSC,Texas Service Center
+I-129F,134A-K,ESC,Vermont Service Center
+I-130,134A-F21,SCD,All Service Centers
+I-130,134A-F21,NBC,National Benefits Center
+I-130,134A-F21,FOD,All Field Offices
+I-130,134A-IR,SCD,All Service Centers
+I-130,134A-IR,NBC,National Benefits Center
+I-130,134A-IR,FOD,All Field Offices
+I-130,134B-F11,SCD,All Service Centers
+I-130,134B-F11,NBC,National Benefits Center
+I-130,134B-F11,FOD,All Field Offices
+I-130,134B-F24,SCD,All Service Centers
+I-130,134B-F24,NBC,National Benefits Center
+I-130,134B-F24,FOD,All Field Offices
+I-130,134B-F31,SCD,All Service Centers
+I-130,134B-F31,NBC,National Benefits Center
+I-130,134B-F31,FOD,All Field Offices
+I-130,134B-F41,SCD,All Service Centers
+I-130,134B-F41,NBC,National Benefits Center
+I-130,134B-F41,FOD,All Field Offices
+I-131,141A-RT,NSC,Nebraska Service Center
+I-131,141B-OTH,CSC,California Service Center
+I-131,141B-OTH,NBC,National Benefits Center
+I-131,141B-OTH,NSC,Nebraska Service Center
+I-131,141B-OTH,SSC,Texas Service Center
+I-131,141B-OTH,ESC,Vermont Service Center
+I-140,136A-E11,NSC,Nebraska Service Center
+I-140,136A-E11,SSC,Texas Service Center
+I-140,136A-E12,NSC,Nebraska Service Center
+I-140,136A-E12,SSC,Texas Service Center
+I-140,136A-E13,NSC,Nebraska Service Center
+I-140,136A-E13,SSC,Texas Service Center
+I-140,136A-E21,NSC,Nebraska Service Center
+I-140,136A-E21,SSC,Texas Service Center
+I-140,136A-E31,NSC,Nebraska Service Center
+I-140,136A-E31,SSC,Texas Service Center
+I-140,136A-EW3,NSC,Nebraska Service Center
+I-140,136A-EW3,SSC,Texas Service Center
+I-140,136A-NIW,NSC,Nebraska Service Center
+I-140,136A-NIW,SSC,Texas Service Center
+I-140,136A-NUR,NSC,Nebraska Service Center
+I-140,136A-NUR,SSC,Texas Service Center
+I-212,144B,NSC,Nebraska Service Center
+I-212,144B,FOD,All Field Offices
+I-360,135B,CSC,California Service Center
+I-360,135B,NSC,Nebraska Service Center
+I-360,135B,ESC,Vermont Service Center
+I-360,135C,SCD,All Service Centers
+I-360,135D-RW,CSC,California Service Center
+I-360,135E,NSC,Nebraska Service Center
+I-407,407,EFC,Eastern Forms Center
+I-485,131A,CSC,California Service Center
+I-485,131A,NSC,Nebraska Service Center
+I-485,131A,SSC,Texas Service Center
+I-485,131A,AGA,Agana GU
+I-485,131A,ALB,Albany NY
+I-485,131A,ABQ,Albuquerque NM
+I-485,131A,ANC,Anchorage AK
+I-485,131A,ATL,Atlanta GA
+I-485,131A,BAL,Baltimore MD
+I-485,131A,BOI,Boise ID
+I-485,131A,BOS,Boston MA
+I-485,131A,BNY,Brooklyn NY
+I-485,131A,BUF,Buffalo NY
+I-485,131A,STA,Burlington VT
+I-485,131A,CHL,Charleston SC
+I-485,131A,CHA,Charlotte Amalie VI
+I-485,131A,CLT,Charlotte NC
+I-485,131A,CHI,Chicago IL
+I-485,131A,CHR,Christiansted VI
+I-485,131A,CIN,Cincinnati OH
+I-485,131A,CLE,Cleveland OH
+I-485,131A,CLM,Columbus OH
+I-485,131A,NJC,Cranbury NJ
+I-485,131A,DAL,Dallas TX
+I-485,131A,DEN,Denver CO
+I-485,131A,DSM,Des Moines IA
+I-485,131A,DET,Detroit MI
+I-485,131A,ELP,El Paso TX
+I-485,131A,OFM,Fort Myers FL
+I-485,131A,FSA,Fort Smith AR
+I-485,131A,FRE,Fresno CA
+I-485,131A,GRR,Greer SC
+I-485,131A,HLG,Harlingen TX
+I-485,131A,HAR,Hartford CT
+I-485,131A,HEL,Helena MT
+I-485,131A,HIA,Hialeah FL
+I-485,131A,HHW,Honolulu HI
+I-485,131A,HOU,Houston TX
+I-485,131A,IMP,Imperial CA
+I-485,131A,INP,Indianapolis IN
+I-485,131A,JAC,Jacksonville FL
+I-485,131A,KAN,Kansas City MO
+I-485,131A,KND,Kendall FL
+I-485,131A,LVG,Las Vegas NV
+I-485,131A,LAW,Lawrence MA
+I-485,131A,LNY,Long Island NY
+I-485,131A,LOS,Los Angeles CA
+I-485,131A,LAC,Los Angeles County CA
+I-485,131A,LOU,Louisville KY
+I-485,131A,MAN,Manchester NH
+I-485,131A,MEM,Memphis TN
+I-485,131A,MIA,Miami FL
+I-485,131A,MIL,Milwaukee WI
+I-485,131A,SPM,Minneapolis-St. Paul MN
+I-485,131A,MGA,Montgomery AL
+I-485,131A,MTL,Mount Laurel NJ
+I-485,131A,NTN,Nashville TN
+I-485,131A,NEW,Newark NJ
+I-485,131A,NOL,New Orleans LA
+I-485,131A,NYC,New York City NY
+I-485,131A,NOR,Norfolk VA
+I-485,131A,OKL,Oakland Park FL
+I-485,131A,OKC,Oklahoma City OK
+I-485,131A,OMA,Omaha NE
+I-485,131A,ORL,Orlando FL
+I-485,131A,PHI,Philadelphia PA
+I-485,131A,PHO,Phoenix AZ
+I-485,131A,PIT,Pittsburgh PA
+I-485,131A,POM,Portland ME
+I-485,131A,POO,Portland OR
+I-485,131A,PRO,Providence RI
+I-485,131A,QNS,Queens NY
+I-485,131A,RAL,Raleigh NC
+I-485,131A,REN,Reno NV
+I-485,131A,SAC,Sacramento CA
+I-485,131A,STL,Saint Louis MO
+I-485,131A,SLC,Salt Lake City UT
+I-485,131A,SNA,San Antonio TX
+I-485,131A,SBD,San Bernardino CA
+I-485,131A,SND,San Diego CA
+I-485,131A,SFV,San Fernando Valley CA
+I-485,131A,SFR,San Francisco CA
+I-485,131A,SNJ,San Jose CA
+I-485,131A,SAJ,San Juan PR
+I-485,131A,SAA,Santa Ana CA
+I-485,131A,SEA,Seattle WA
+I-485,131A,SPO,Spokane WA
+I-485,131A,TAM,Tampa FL
+I-485,131A,TUC,Tucson AZ
+I-485,131A,WAS,Washington DC
+I-485,131A,WPB,West Palm Beach FL
+I-485,131A,WIC,Wichita KS
+I-485,131A,YAK,Yakima WA
+I-485,131A-FAM,AGA,Agana GU
+I-485,131A-FAM,ALB,Albany NY
+I-485,131A-FAM,ABQ,Albuquerque NM
+I-485,131A-FAM,ANC,Anchorage AK
+I-485,131A-FAM,ATL,Atlanta GA
+I-485,131A-FAM,BAL,Baltimore MD
+I-485,131A-FAM,BOI,Boise ID
+I-485,131A-FAM,BOS,Boston MA
+I-485,131A-FAM,BNY,Brooklyn NY
+I-485,131A-FAM,BUF,Buffalo NY
+I-485,131A-FAM,STA,Burlington VT
+I-485,131A-FAM,CHL,Charleston SC
+I-485,131A-FAM,CHA,Charlotte Amalie VI
+I-485,131A-FAM,CLT,Charlotte NC
+I-485,131A-FAM,CHI,Chicago IL
+I-485,131A-FAM,CHR,Christiansted VI
+I-485,131A-FAM,CIN,Cincinnati OH
+I-485,131A-FAM,CLE,Cleveland OH
+I-485,131A-FAM,CLM,Columbus OH
+I-485,131A-FAM,NJC,Cranbury NJ
+I-485,131A-FAM,DAL,Dallas TX
+I-485,131A-FAM,DEN,Denver CO
+I-485,131A-FAM,DSM,Des Moines IA
+I-485,131A-FAM,DET,Detroit MI
+I-485,131A-FAM,ELP,El Paso TX
+I-485,131A-FAM,OFM,Fort Myers FL
+I-485,131A-FAM,FSA,Fort Smith AR
+I-485,131A-FAM,FRE,Fresno CA
+I-485,131A-FAM,GRR,Greer SC
+I-485,131A-FAM,HLG,Harlingen TX
+I-485,131A-FAM,HAR,Hartford CT
+I-485,131A-FAM,HEL,Helena MT
+I-485,131A-FAM,HIA,Hialeah FL
+I-485,131A-FAM,HHW,Honolulu HI
+I-485,131A-FAM,HOU,Houston TX
+I-485,131A-FAM,IMP,Imperial CA
+I-485,131A-FAM,INP,Indianapolis IN
+I-485,131A-FAM,JAC,Jacksonville FL
+I-485,131A-FAM,KAN,Kansas City MO
+I-485,131A-FAM,KND,Kendall FL
+I-485,131A-FAM,LVG,Las Vegas NV
+I-485,131A-FAM,LAW,Lawrence MA
+I-485,131A-FAM,LNY,Long Island NY
+I-485,131A-FAM,LOS,Los Angeles CA
+I-485,131A-FAM,LAC,Los Angeles County CA
+I-485,131A-FAM,LOU,Louisville KY
+I-485,131A-FAM,MAN,Manchester NH
+I-485,131A-FAM,MEM,Memphis TN
+I-485,131A-FAM,MIA,Miami FL
+I-485,131A-FAM,MIL,Milwaukee WI
+I-485,131A-FAM,SPM,Minneapolis-St. Paul MN
+I-485,131A-FAM,MGA,Montgomery AL
+I-485,131A-FAM,MTL,Mount Laurel NJ
+I-485,131A-FAM,NTN,Nashville TN
+I-485,131A-FAM,NEW,Newark NJ
+I-485,131A-FAM,NOL,New Orleans LA
+I-485,131A-FAM,NYC,New York City NY
+I-485,131A-FAM,NOR,Norfolk VA
+I-485,131A-FAM,OKL,Oakland Park FL
+I-485,131A-FAM,OKC,Oklahoma City OK
+I-485,131A-FAM,OMA,Omaha NE
+I-485,131A-FAM,ORL,Orlando FL
+I-485,131A-FAM,PHI,Philadelphia PA
+I-485,131A-FAM,PHO,Phoenix AZ
+I-485,131A-FAM,PIT,Pittsburgh PA
+I-485,131A-FAM,POM,Portland ME
+I-485,131A-FAM,POO,Portland OR
+I-485,131A-FAM,PRO,Providence RI
+I-485,131A-FAM,QNS,Queens NY
+I-485,131A-FAM,RAL,Raleigh NC
+I-485,131A-FAM,REN,Reno NV
+I-485,131A-FAM,SAC,Sacramento CA
+I-485,131A-FAM,STL,Saint Louis MO
+I-485,131A-FAM,SLC,Salt Lake City UT
+I-485,131A-FAM,SNA,San Antonio TX
+I-485,131A-FAM,SBD,San Bernardino CA
+I-485,131A-FAM,SND,San Diego CA
+I-485,131A-FAM,SFV,San Fernando Valley CA
+I-485,131A-FAM,SFR,San Francisco CA
+I-485,131A-FAM,SNJ,San Jose CA
+I-485,131A-FAM,SAJ,San Juan PR
+I-485,131A-FAM,SAA,Santa Ana CA
+I-485,131A-FAM,SEA,Seattle WA
+I-485,131A-FAM,SPO,Spokane WA
+I-485,131A-FAM,TAM,Tampa FL
+I-485,131A-FAM,TUC,Tucson AZ
+I-485,131A-FAM,WAS,Washington DC
+I-485,131A-FAM,WPB,West Palm Beach FL
+I-485,131A-FAM,WIC,Wichita KS
+I-485,131A-FAM,YAK,Yakima WA
+I-485,131A-HRIFA,NSC,Nebraska Service Center
+I-485,131B,FOD,All Field Offices
+I-485,131C,FOD,All Field Offices
+I-485,131T,ESC,Vermont Service Center
+I-485,131U,NSC,Nebraska Service Center
+I-485,131U,ESC,Vermont Service Center
+I-526,133CN,IPO,Immigrant Investor Program Office
+I-526,133ROW,IPO,Immigrant Investor Program Office
+I-539,139A-B,CSC,California Service Center
+I-539,139A-B,NSC,Nebraska Service Center
+I-539,139A-B,YSC,Potomac Service Center
+I-539,139A-B,SSC,Texas Service Center
+I-539,139A-B,ESC,Vermont Service Center
+I-539,139AC-H,CSC,California Service Center
+I-539,139AC-H,NSC,Nebraska Service Center
+I-539,139AC-H,SSC,Texas Service Center
+I-539,139AC-H,ESC,Vermont Service Center
+I-539,139A-FMJ,CSC,California Service Center
+I-539,139A-FMJ,NSC,Nebraska Service Center
+I-539,139A-FMJ,YSC,Potomac Service Center
+I-539,139A-FMJ,SSC,Texas Service Center
+I-539,139A-FMJ,ESC,Vermont Service Center
+I-539,139A-H,CSC,California Service Center
+I-539,139A-H,NSC,Nebraska Service Center
+I-539,139A-H,SSC,Texas Service Center
+I-539,139A-H,ESC,Vermont Service Center
+I-539,139A-L,CSC,California Service Center
+I-539,139A-L,SSC,Texas Service Center
+I-539,139A-OTH,CSC,California Service Center
+I-539,139A-OTH,NBC,National Benefits Center
+I-539,139A-OTH,NSC,Nebraska Service Center
+I-539,139A-OTH,YSC,Potomac Service Center
+I-539,139A-OTH,ESC,Vermont Service Center
+I-539,139B-B,CSC,California Service Center
+I-539,139B-B,NSC,Nebraska Service Center
+I-539,139B-B,YSC,Potomac Service Center
+I-539,139B-B,SSC,Texas Service Center
+I-539,139B-B,ESC,Vermont Service Center
+I-539,139BC-H,CSC,California Service Center
+I-539,139BC-H,NSC,Nebraska Service Center
+I-539,139BC-H,SSC,Texas Service Center
+I-539,139BC-H,ESC,Vermont Service Center
+I-539,139B-FMJ,CSC,California Service Center
+I-539,139B-FMJ,NSC,Nebraska Service Center
+I-539,139B-FMJ,YSC,Potomac Service Center
+I-539,139B-FMJ,SSC,Texas Service Center
+I-539,139B-FMJ,ESC,Vermont Service Center
+I-539,139B-H,CSC,California Service Center
+I-539,139B-H,NSC,Nebraska Service Center
+I-539,139B-H,SSC,Texas Service Center
+I-539,139B-H,ESC,Vermont Service Center
+I-539,139B-L,CSC,California Service Center
+I-539,139B-L,SSC,Texas Service Center
+I-539,139B-OTH,CSC,California Service Center
+I-539,139B-OTH,NBC,National Benefits Center
+I-539,139B-OTH,NSC,Nebraska Service Center
+I-539,139B-OTH,YSC,Potomac Service Center
+I-539,139B-OTH,ESC,Vermont Service Center
+I-539,139B-T,ESC,Vermont Service Center
+I-539,139B-U,ESC,Vermont Service Center
+I-539,139C,CSC,California Service Center
+I-539,139C,ESC,Vermont Service Center
+I-600,134B,NBC,National Benefits Center
+I-600A,134-A,NBC,National Benefits Center
+I-601,144AB,NSC,Nebraska Service Center
+I-601,144AB,FOD,All Field Offices
+I-601A,144AC,SCD,All Service Centers
+I-612,144A,CSC,California Service Center
+I-612,144D,ESC,Vermont Service Center
+I-730,145,SCD,All Service Centers
+I-751,148A,SCD,All Service Centers
+I-751,148A,FOD,All Field Offices
+I-765,147-539C26,CSC,California Service Center
+I-765,147-539C26,NSC,Nebraska Service Center
+I-765,147-539C26,SSC,Texas Service Center
+I-765,147-539C26,ESC,Vermont Service Center
+I-765,147-A18,CSC,California Service Center
+I-765,147-A18,SSC,Texas Service Center
+I-765,147-A18,ESC,Vermont Service Center
+I-765,147-A3,NSC,Nebraska Service Center
+I-765,147-A5,NSC,Nebraska Service Center
+I-765,147-A5,SSC,Texas Service Center
+I-765,147-C10,NBC,National Benefits Center
+I-765,147-C11,NBC,National Benefits Center
+I-765,147-C18,NBC,National Benefits Center
+I-765,147-C26,CSC,California Service Center
+I-765,147-C26,NSC,Nebraska Service Center
+I-765,147-C26,SSC,Texas Service Center
+I-765,147-C26,ESC,Vermont Service Center
+I-765,147-C3,YSC,Potomac Service Center
+I-765,147-C33,CSC,California Service Center
+I-765,147-C33,NSC,Nebraska Service Center
+I-765,147-C33,ESC,Vermont Service Center
+I-765,147-C8,SCD,All Service Centers
+I-765,147-C8I,SCD,All Service Centers
+I-765,147-C9,CSC,California Service Center
+I-765,147-C9,NBC,National Benefits Center
+I-765,147-C9,NSC,Nebraska Service Center
+I-765,147-C9,SSC,Texas Service Center
+I-765,147-C9,ESC,Vermont Service Center
+I-765,147-ELSAL,SSC,Texas Service Center
+I-765,147-ELSAL,ESC,Vermont Service Center
+I-765,147-HAITI,CSC,California Service Center
+I-765,147-OTH,CSC,California Service Center
+I-765,147-OTH,NBC,National Benefits Center
+I-765,147-OTH,NSC,Nebraska Service Center
+I-765,147-OTH,YSC,Potomac Service Center
+I-765,147-OTH,SSC,Texas Service Center
+I-765,147-OTH,ESC,Vermont Service Center
+I-765V,147-V,ESC,Vermont Service Center
+I-800,800M,NBC,National Benefits Center
+I-800A,800A,NBC,National Benefits Center
+I-817,150,NBC,National Benefits Center
+I-817,150,SSC,Texas Service Center
+I-821,821AF_I,ESC,Vermont Service Center
+I-821,821AF_R,ESC,Vermont Service Center
+I-821,821MM_I,CSC,California Service Center
+I-821,821MM_R,CSC,California Service Center
+I-821,821CA_I,NSC,Nebraska Service Center
+I-821,821CA_R,NSC,Nebraska Service Center
+I-821,821SV_I,SSC,Texas Service Center
+I-821,821SV_I,ESC,Vermont Service Center
+I-821,821SV_R,NSC,Nebraska Service Center
+I-821,821SV_R,SSC,Texas Service Center
+I-821,821SV_R,ESC,Vermont Service Center
+I-821,821HT_I,CSC,California Service Center
+I-821,821HT_R,CSC,California Service Center
+I-821,821HN_I,ESC,Vermont Service Center
+I-821,821HN_R,ESC,Vermont Service Center
+I-821,821NP_I,NSC,Nebraska Service Center
+I-821,821NP_R,NSC,Nebraska Service Center
+I-821,821NI_I,SSC,Texas Service Center
+I-821,821NI_R,SSC,Texas Service Center
+I-821,821SO_I,ESC,Vermont Service Center
+I-821,821SO_R,ESC,Vermont Service Center
+I-821,821SS_I,ESC,Vermont Service Center
+I-821,821SS_R,ESC,Vermont Service Center
+I-821,821SD_I,ESC,Vermont Service Center
+I-821,821SD_R,ESC,Vermont Service Center
+I-821,821SY_I,ESC,Vermont Service Center
+I-821,821SY_R,ESC,Vermont Service Center
+I-821,821UA_I,NSC,Nebraska Service Center
+I-821,821UA_R,NSC,Nebraska Service Center
+I-821,821VE_I,YSC,Potomac Service Center
+I-821,821VE_R,YSC,Potomac Service Center
+I-821,821YE_I,ESC,Vermont Service Center
+I-821,821YE_R,ESC,Vermont Service Center
+I-821D,149-CAT,NSC,Nebraska Service Center
+I-821D,149-CAT,ESC,Vermont Service Center
+I-821D,149-ECA,CSC,California Service Center
+I-821D,149-ECA,ESC,Vermont Service Center
+I-824,153,CSC,California Service Center
+I-824,153,NBC,National Benefits Center
+I-824,153,NSC,Nebraska Service Center
+I-824,153,YSC,Potomac Service Center
+I-824,153,SSC,Texas Service Center
+I-824,153,ESC,Vermont Service Center
+I-829,148C,IPO,Immigrant Investor Program Office
+I-90,140A,YSC,Potomac Service Center
+I-90,140B,YSC,Potomac Service Center
+I-914,914T,ESC,Vermont Service Center
+I-918,918ABFD,SCD,All Service Centers
+I-929,929,ESC,Vermont Service Center
+I-956,956-A,IPO,Immigrant Investor Program Office
+I-956F,956,IPO,Immigrant Investor Program Office
+N-400,160A,AGA,Agana GU
+N-400,160A,ALB,Albany NY
+N-400,160A,ABQ,Albuquerque NM
+N-400,160A,ANC,Anchorage AK
+N-400,160A,ATL,Atlanta GA
+N-400,160A,BAL,Baltimore MD
+N-400,160A,BOI,Boise ID
+N-400,160A,BOS,Boston MA
+N-400,160A,BNY,Brooklyn NY
+N-400,160A,BUF,Buffalo NY
+N-400,160A,STA,Burlington VT
+N-400,160A,CHL,Charleston SC
+N-400,160A,CHA,Charlotte Amalie VI
+N-400,160A,CLT,Charlotte NC
+N-400,160A,CHI,Chicago IL
+N-400,160A,CHR,Christiansted VI
+N-400,160A,CIN,Cincinnati OH
+N-400,160A,CLE,Cleveland OH
+N-400,160A,CLM,Columbus OH
+N-400,160A,NJC,Cranbury NJ
+N-400,160A,DAL,Dallas TX
+N-400,160A,DEN,Denver CO
+N-400,160A,DSM,Des Moines IA
+N-400,160A,DET,Detroit MI
+N-400,160A,ELP,El Paso TX
+N-400,160A,OFM,Fort Myers FL
+N-400,160A,FSA,Fort Smith AR
+N-400,160A,FRE,Fresno CA
+N-400,160A,GRR,Greer SC
+N-400,160A,HLG,Harlingen TX
+N-400,160A,HAR,Hartford CT
+N-400,160A,HEL,Helena MT
+N-400,160A,HIA,Hialeah FL
+N-400,160A,HHW,Honolulu HI
+N-400,160A,HOU,Houston TX
+N-400,160A,IMP,Imperial CA
+N-400,160A,INP,Indianapolis IN
+N-400,160A,JAC,Jacksonville FL
+N-400,160A,KAN,Kansas City MO
+N-400,160A,KND,Kendall FL
+N-400,160A,LVG,Las Vegas NV
+N-400,160A,LAW,Lawrence MA
+N-400,160A,LNY,Long Island NY
+N-400,160A,LOS,Los Angeles CA
+N-400,160A,LAC,Los Angeles County CA
+N-400,160A,LOU,Louisville KY
+N-400,160A,MAN,Manchester NH
+N-400,160A,MEM,Memphis TN
+N-400,160A,MIA,Miami FL
+N-400,160A,MIL,Milwaukee WI
+N-400,160A,SPM,Minneapolis-St. Paul MN
+N-400,160A,MGA,Montgomery AL
+N-400,160A,MTL,Mount Laurel NJ
+N-400,160A,NTN,Nashville TN
+N-400,160A,NEW,Newark NJ
+N-400,160A,NOL,New Orleans LA
+N-400,160A,NYC,New York City NY
+N-400,160A,NOR,Norfolk VA
+N-400,160A,OKL,Oakland Park FL
+N-400,160A,OKC,Oklahoma City OK
+N-400,160A,OMA,Omaha NE
+N-400,160A,ORL,Orlando FL
+N-400,160A,PHI,Philadelphia PA
+N-400,160A,PHO,Phoenix AZ
+N-400,160A,PIT,Pittsburgh PA
+N-400,160A,POM,Portland ME
+N-400,160A,POO,Portland OR
+N-400,160A,PRO,Providence RI
+N-400,160A,QNS,Queens NY
+N-400,160A,RAL,Raleigh NC
+N-400,160A,REN,Reno NV
+N-400,160A,SAC,Sacramento CA
+N-400,160A,STL,Saint Louis MO
+N-400,160A,SLC,Salt Lake City UT
+N-400,160A,SNA,San Antonio TX
+N-400,160A,SBD,San Bernardino CA
+N-400,160A,SND,San Diego CA
+N-400,160A,SFV,San Fernando Valley CA
+N-400,160A,SFR,San Francisco CA
+N-400,160A,SNJ,San Jose CA
+N-400,160A,SAJ,San Juan PR
+N-400,160A,SAA,Santa Ana CA
+N-400,160A,SEA,Seattle WA
+N-400,160A,SPO,Spokane WA
+N-400,160A,TAM,Tampa FL
+N-400,160A,TUC,Tucson AZ
+N-400,160A,WAS,Washington DC
+N-400,160A,WPB,West Palm Beach FL
+N-400,160A,WIC,Wichita KS
+N-400,160A,YAK,Yakima WA
+N-565,165,NSC,Nebraska Service Center
+N-600,161A,AGA,Agana GU
+N-600,161A,ALB,Albany NY
+N-600,161A,ABQ,Albuquerque NM
+N-600,161A,ANC,Anchorage AK
+N-600,161A,ATL,Atlanta GA
+N-600,161A,BAL,Baltimore MD
+N-600,161A,BOI,Boise ID
+N-600,161A,BOS,Boston MA
+N-600,161A,BNY,Brooklyn NY
+N-600,161A,BUF,Buffalo NY
+N-600,161A,STA,Burlington VT
+N-600,161A,CHL,Charleston SC
+N-600,161A,CHA,Charlotte Amalie VI
+N-600,161A,CLT,Charlotte NC
+N-600,161A,CHI,Chicago IL
+N-600,161A,CHR,Christiansted VI
+N-600,161A,CIN,Cincinnati OH
+N-600,161A,CLE,Cleveland OH
+N-600,161A,CLM,Columbus OH
+N-600,161A,NJC,Cranbury NJ
+N-600,161A,DAL,Dallas TX
+N-600,161A,DEN,Denver CO
+N-600,161A,DSM,Des Moines IA
+N-600,161A,DET,Detroit MI
+N-600,161A,ELP,El Paso TX
+N-600,161A,OFM,Fort Myers FL
+N-600,161A,FSA,Fort Smith AR
+N-600,161A,FRE,Fresno CA
+N-600,161A,GRR,Greer SC
+N-600,161A,HLG,Harlingen TX
+N-600,161A,HAR,Hartford CT
+N-600,161A,HEL,Helena MT
+N-600,161A,HIA,Hialeah FL
+N-600,161A,HHW,Honolulu HI
+N-600,161A,HOU,Houston TX
+N-600,161A,IMP,Imperial CA
+N-600,161A,INP,Indianapolis IN
+N-600,161A,JAC,Jacksonville FL
+N-600,161A,KAN,Kansas City MO
+N-600,161A,KND,Kendall FL
+N-600,161A,LVG,Las Vegas NV
+N-600,161A,LAW,Lawrence MA
+N-600,161A,LNY,Long Island NY
+N-600,161A,LOS,Los Angeles CA
+N-600,161A,LAC,Los Angeles County CA
+N-600,161A,LOU,Louisville KY
+N-600,161A,MAN,Manchester NH
+N-600,161A,MEM,Memphis TN
+N-600,161A,MIA,Miami FL
+N-600,161A,MIL,Milwaukee WI
+N-600,161A,SPM,Minneapolis-St. Paul MN
+N-600,161A,MGA,Montgomery AL
+N-600,161A,MTL,Mount Laurel NJ
+N-600,161A,NTN,Nashville TN
+N-600,161A,NEW,Newark NJ
+N-600,161A,NOL,New Orleans LA
+N-600,161A,NYC,New York City NY
+N-600,161A,NOR,Norfolk VA
+N-600,161A,OKL,Oakland Park FL
+N-600,161A,OKC,Oklahoma City OK
+N-600,161A,OMA,Omaha NE
+N-600,161A,ORL,Orlando FL
+N-600,161A,PHI,Philadelphia PA
+N-600,161A,PHO,Phoenix AZ
+N-600,161A,PIT,Pittsburgh PA
+N-600,161A,POM,Portland ME
+N-600,161A,POO,Portland OR
+N-600,161A,PRO,Providence RI
+N-600,161A,QNS,Queens NY
+N-600,161A,RAL,Raleigh NC
+N-600,161A,REN,Reno NV
+N-600,161A,SAC,Sacramento CA
+N-600,161A,STL,Saint Louis MO
+N-600,161A,SLC,Salt Lake City UT
+N-600,161A,SNA,San Antonio TX
+N-600,161A,SBD,San Bernardino CA
+N-600,161A,SND,San Diego CA
+N-600,161A,SFV,San Fernando Valley CA
+N-600,161A,SFR,San Francisco CA
+N-600,161A,SNJ,San Jose CA
+N-600,161A,SAJ,San Juan PR
+N-600,161A,SAA,Santa Ana CA
+N-600,161A,SEA,Seattle WA
+N-600,161A,SPO,Spokane WA
+N-600,161A,TAM,Tampa FL
+N-600,161A,TUC,Tucson AZ
+N-600,161A,WAS,Washington DC
+N-600,161A,WPB,West Palm Beach FL
+N-600,161A,WIC,Wichita KS
+N-600,161A,YAK,Yakima WA
+N-600K,161B,AGA,Agana GU
+N-600K,161B,ALB,Albany NY
+N-600K,161B,ABQ,Albuquerque NM
+N-600K,161B,ANC,Anchorage AK
+N-600K,161B,ATL,Atlanta GA
+N-600K,161B,BAL,Baltimore MD
+N-600K,161B,BOI,Boise ID
+N-600K,161B,BOS,Boston MA
+N-600K,161B,BNY,Brooklyn NY
+N-600K,161B,BUF,Buffalo NY
+N-600K,161B,STA,Burlington VT
+N-600K,161B,CHL,Charleston SC
+N-600K,161B,CHA,Charlotte Amalie VI
+N-600K,161B,CLT,Charlotte NC
+N-600K,161B,CHI,Chicago IL
+N-600K,161B,CHR,Christiansted VI
+N-600K,161B,CIN,Cincinnati OH
+N-600K,161B,CLE,Cleveland OH
+N-600K,161B,CLM,Columbus OH
+N-600K,161B,NJC,Cranbury NJ
+N-600K,161B,DAL,Dallas TX
+N-600K,161B,DEN,Denver CO
+N-600K,161B,DSM,Des Moines IA
+N-600K,161B,DET,Detroit MI
+N-600K,161B,ELP,El Paso TX
+N-600K,161B,OFM,Fort Myers FL
+N-600K,161B,FSA,Fort Smith AR
+N-600K,161B,FRE,Fresno CA
+N-600K,161B,GRR,Greer SC
+N-600K,161B,HLG,Harlingen TX
+N-600K,161B,HAR,Hartford CT
+N-600K,161B,HEL,Helena MT
+N-600K,161B,HIA,Hialeah FL
+N-600K,161B,HHW,Honolulu HI
+N-600K,161B,HOU,Houston TX
+N-600K,161B,IMP,Imperial CA
+N-600K,161B,INP,Indianapolis IN
+N-600K,161B,JAC,Jacksonville FL
+N-600K,161B,KAN,Kansas City MO
+N-600K,161B,KND,Kendall FL
+N-600K,161B,LVG,Las Vegas NV
+N-600K,161B,LAW,Lawrence MA
+N-600K,161B,LNY,Long Island NY
+N-600K,161B,LOS,Los Angeles CA
+N-600K,161B,LAC,Los Angeles County CA
+N-600K,161B,LOU,Louisville KY
+N-600K,161B,MAN,Manchester NH
+N-600K,161B,MEM,Memphis TN
+N-600K,161B,MIA,Miami FL
+N-600K,161B,MIL,Milwaukee WI
+N-600K,161B,SPM,Minneapolis-St. Paul MN
+N-600K,161B,MGA,Montgomery AL
+N-600K,161B,MTL,Mount Laurel NJ
+N-600K,161B,NTN,Nashville TN
+N-600K,161B,NEW,Newark NJ
+N-600K,161B,NOL,New Orleans LA
+N-600K,161B,NYC,New York City NY
+N-600K,161B,NOR,Norfolk VA
+N-600K,161B,OKL,Oakland Park FL
+N-600K,161B,OKC,Oklahoma City OK
+N-600K,161B,OMA,Omaha NE
+N-600K,161B,ORL,Orlando FL
+N-600K,161B,PHI,Philadelphia PA
+N-600K,161B,PHO,Phoenix AZ
+N-600K,161B,PIT,Pittsburgh PA
+N-600K,161B,POM,Portland ME
+N-600K,161B,POO,Portland OR
+N-600K,161B,PRO,Providence RI
+N-600K,161B,QNS,Queens NY
+N-600K,161B,RAL,Raleigh NC
+N-600K,161B,REN,Reno NV
+N-600K,161B,SAC,Sacramento CA
+N-600K,161B,STL,Saint Louis MO
+N-600K,161B,SLC,Salt Lake City UT
+N-600K,161B,SNA,San Antonio TX
+N-600K,161B,SBD,San Bernardino CA
+N-600K,161B,SND,San Diego CA
+N-600K,161B,SFV,San Fernando Valley CA
+N-600K,161B,SFR,San Francisco CA
+N-600K,161B,SNJ,San Jose CA
+N-600K,161B,SAJ,San Juan PR
+N-600K,161B,SAA,Santa Ana CA
+N-600K,161B,SEA,Seattle WA
+N-600K,161B,SPO,Spokane WA
+N-600K,161B,TAM,Tampa FL
+N-600K,161B,TUC,Tucson AZ
+N-600K,161B,WAS,Washington DC
+N-600K,161B,WPB,West Palm Beach FL
+N-600K,161B,WIC,Wichita KS
+N-600K,161B,YAK,Yakima WA

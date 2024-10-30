@@ -1,0 +1,254 @@
+---
+title: "Getting Started with USCIS Processing Times"
+date: "`r Sys.Date()`"
+format: html
+vignette: >
+  %\VignetteIndexEntry{Getting Started with USCIS Processing Times}
+  %\VignetteEngine{quarto::html}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r}
+#| include: false
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  warning = FALSE,
+  message = FALSE, 
+  cache = TRUE
+)
+```
+
+The `uscis` package provides tools to access and analyze USCIS 
+(United States Citizenship and Immigration Services) processing times data
+through their API. This vignette demonstrates how to use the package to retrieve
+information about forms, their processing locations, and current processing times.
+
+## Setup
+
+First, let's load the required packages:
+
+```{r setup}
+library(uscis)
+library(dplyr)
+library(ggplot2)
+```
+
+## Basic Usage
+
+### Initialize Session
+
+First, we need to initialize a session with USCIS to get the necessary cookies:
+
+```{r}
+#| label: init
+init_uscis_session()
+```
+
+### Available Forms
+
+Let's retrieve the list of available USCIS forms:
+
+```{r}
+#| label: forms
+forms <- uscis_forms()
+head(forms)
+```
+
+### Form Types
+
+For each form, we can get its available subtypes:
+
+```{r}
+#| label: form-types
+form_types <- uscis_form_types(forms)
+head(form_types)
+```
+
+### Processing Offices
+
+Now let's get the offices that process each form type:
+
+```{r form_offices}
+#| label: form-offices
+form_offices <- uscis_form_offices(form_types)
+head(form_offices)
+```
+
+### Processing Times
+
+Finally, let's get the current processing times. For this example, let's 
+just look at a subset of forms to keep the API calls manageable:
+
+```{r}
+#| label: processing-times
+# Let's look at just I-130 forms as an example
+i130_offices <- form_offices |>
+  filter(form_name == "I-130")
+
+processing_times <- uscis_processing_times(i130_offices)
+```
+
+## Analysis Examples
+
+Let's turn now to do some basic analysis of the processing times data.
+
+Before we begin, let's standardize all times to months:
+
+```{r}
+#| label: standardize-timew
+processing_in_months <- standardize_to_months(processing_times)
+```
+
+
+### Overall Processing Times by Form
+
+Let's create a boxplot showing the distribution of processing times for each form:
+
+```{r overall_times}
+ggplot(data = processing_in_months) +
+  aes(x = form_name, y = range_upper) + 
+  geom_boxplot() +
+  labs(
+    title = "Upper Range of Time (Months) for I-130 Form Across Offices", 
+    subtitle = "Based on USCIS Processing Times", 
+    y = "Months",
+    x = "Form"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+```
+
+This visualization shows the overall distribution of processing times for
+each form type, helping identify which forms typically take longer to process.
+
+### Processing Times by Form and Office
+
+We can also break this down by processing office to see variations in processing
+times across locations:
+
+```{r office_times}
+ggplot(data = processing_in_months) + 
+  aes(x = reorder(office_code, range_upper), y = range_upper, color = office_code) + 
+  geom_boxplot() +
+  labs(
+    title = "Upper Range of Time (Months) for the I-130 Form", 
+    subtitle = "By Processing Office", 
+    caption = "Based on USCIS Processing Times",
+    y = "Months",
+    x = "Form",
+    color = "Office"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+```
+
+### Refine by Form Subtype
+
+We can further refine the analysis by looking at specific form subtypes:
+
+```{r}
+ggplot(data = processing_in_months) + 
+  aes(x = reorder(office_code, range_upper), y = range_upper, fill = office_code) + 
+  geom_bar(stat = "identity") +
+  facet_wrap(~ form_subtype, scales = "free", ncol = 2) +
+  labs(
+    title = "Upper Range of Time (Months) for the I-130 Form Across Subtypes", 
+    subtitle = "By Processing Office",
+    caption = "Based on USCIS Processing Times",
+    y = "Months",
+    x = "Form",
+    color = "Office"
+  ) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 90, vjust = 0.5, hjust = 1))
+
+```
+
+
+With this visualization, we can:
+
+1. Identify offices with consistently faster or slower processing times
+2. Understand the variation in processing times for specific forms
+3. Plan application submissions based on office processing speeds
+
+### Office Performance Analysis
+
+We can also analyze which offices are generally faster or slower across all forms:
+
+```{r}
+#| label: office-summary
+office_summary <- processing_in_months |>
+  group_by(office_code) |>
+  summarise(
+    mean_processing_time = mean(range_upper, na.rm = TRUE),
+    median_processing_time = median(range_upper, na.rm = TRUE),
+    n_forms = n()
+  ) |>
+  arrange(mean_processing_time)
+
+head(office_summary) |>
+  knitr::kable(
+    caption = "Fastest Processing Offices (Average Across All Forms)",
+    digits = 1
+  )
+```
+
+
+### Summary Statistics
+
+```{r}
+#| label: summary
+processing_times |>
+  summarise(
+    mean_upper = mean(range_upper),
+    mean_lower = mean(range_lower),
+    median_upper = median(range_upper),
+    median_lower = median(range_lower),
+    n_offices = n()
+  )
+```
+
+## Saving Data
+
+You can save the retrieved data to CSV files for later use:
+
+```{r}
+#| label: save_data
+#| eval: false
+write.csv(
+  processing_times,
+  file = paste0("processing-times-", Sys.Date(), ".csv"),
+  row.names = FALSE
+)
+```
+
+## Common Issues
+
+1. If you get authentication errors, try running `init_uscis_session()` again
+2. The API may have rate limits, so consider adding delays between requests for large queries
+3. Processing times data is updated periodically by USCIS, so results may vary
+
+:::{.callout-important}
+The actual data may vary from when this vignette was built since
+the USCIS updates their processing times randomly.
+:::
+
+## Additional Options
+
+You can also use the `uscis` package to:
+
+- Filter for specific form types
+- Compare processing times across different time periods
+- Analyze processing times by region
+- Track changes in processing times over time
+
+The skies the limit with the data you have at your disposal!
+
+## Session Information
+
+```{r}
+#| label: session-info
+sessionInfo()
+```
+
