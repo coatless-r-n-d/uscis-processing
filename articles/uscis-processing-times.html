@@ -68,8 +68,8 @@
 
 
     <p>The <code>uscis</code> package provides tools to access and analyze USCIS (United States Citizenship and Immigration Services) processing times data through their API. This vignette demonstrates how to use the package to retrieve information about forms, their processing locations, and current processing times.</p>
-<section class="level2"><h2 id="setup">Setup<a class="anchor" aria-label="anchor" href="#setup"></a>
-</h2>
+<section class="section level3"><h3 id="setup">Setup<a class="anchor" aria-label="anchor" href="#setup"></a>
+</h3>
 <p>First, let’s load the required packages:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb1"><pre class="downlit sourceCode r">
@@ -77,18 +77,18 @@
 <span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://dplyr.tidyverse.org" class="external-link">dplyr</a></span><span class="op">)</span></span>
 <span><span class="kw"><a href="https://rdrr.io/r/base/library.html" class="external-link">library</a></span><span class="op">(</span><span class="va"><a href="https://ggplot2.tidyverse.org" class="external-link">ggplot2</a></span><span class="op">)</span></span></code></pre></div>
 </div>
-</section><section class="level2"><h2 id="basic-usage">Basic Usage<a class="anchor" aria-label="anchor" href="#basic-usage"></a>
-</h2>
-<section class="level3"><h3 id="initialize-session">Initialize Session<a class="anchor" aria-label="anchor" href="#initialize-session"></a>
+</section><section class="section level3"><h3 id="basic-usage">Basic Usage<a class="anchor" aria-label="anchor" href="#basic-usage"></a>
 </h3>
+<section class="level3"><h4 id="initialize-session">Initialize Session<a class="anchor" aria-label="anchor" href="#initialize-session"></a>
+</h4>
 <p>First, we need to initialize a session with USCIS to get the necessary cookies:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb2"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="fu"><a href="../reference/init_uscis_session.html">init_uscis_session</a></span><span class="op">(</span><span class="op">)</span></span>
+<code class="sourceCode R"><span><span class="fu"><a href="../reference/uscis_init_session.html">uscis_init_session</a></span><span class="op">(</span><span class="op">)</span></span>
 <span><span class="co">#&gt; [1] TRUE</span></span></code></pre></div>
 </div>
-</section><section class="level3"><h3 id="available-forms">Available Forms<a class="anchor" aria-label="anchor" href="#available-forms"></a>
-</h3>
+</section><section class="level3"><h4 id="available-forms">Available Forms<a class="anchor" aria-label="anchor" href="#available-forms"></a>
+</h4>
 <p>Let’s retrieve the list of available USCIS forms:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb3"><pre class="downlit sourceCode r">
@@ -116,8 +116,8 @@
 <span><span class="co">#&gt; 5     I-130</span></span>
 <span><span class="co">#&gt; 6     I-131</span></span></code></pre></div>
 </div>
-</section><section class="level3"><h3 id="form-types">Form Types<a class="anchor" aria-label="anchor" href="#form-types"></a>
-</h3>
+</section><section class="level3"><h4 id="form-types">Form Types<a class="anchor" aria-label="anchor" href="#form-types"></a>
+</h4>
 <p>For each form, we can get its available subtypes:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb4"><pre class="downlit sourceCode r">
@@ -145,8 +145,8 @@
 <span><span class="co">#&gt; 5 H-1B - Ocupación especial - cambio de la condición migratoria en los E.E.U.U.</span></span>
 <span><span class="co">#&gt; 6           H-1B - Ocupación especial - extensión de la estadía en los E.E.U.U.</span></span></code></pre></div>
 </div>
-</section><section class="level3"><h3 id="processing-offices">Processing Offices<a class="anchor" aria-label="anchor" href="#processing-offices"></a>
-</h3>
+</section><section class="level3"><h4 id="processing-offices">Processing Offices<a class="anchor" aria-label="anchor" href="#processing-offices"></a>
+</h4>
 <p>Now let’s get the offices that process each form type:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb5"><pre class="downlit sourceCode r">
@@ -160,8 +160,8 @@
 <span><span class="co">#&gt; 5     I-102       142         ESC    Vermont Service Center</span></span>
 <span><span class="co">#&gt; 6     I-129     137-E         CSC California Service Center</span></span></code></pre></div>
 </div>
-</section><section class="level3"><h3 id="processing-times">Processing Times<a class="anchor" aria-label="anchor" href="#processing-times"></a>
-</h3>
+</section><section class="level3"><h4 id="processing-times">Processing Times<a class="anchor" aria-label="anchor" href="#processing-times"></a>
+</h4>
 <p>Finally, let’s get the current processing times. For this example, let’s just look at a subset of forms to keep the API calls manageable:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb6"><pre class="downlit sourceCode r">
@@ -169,18 +169,44 @@
 <span><span class="va">i130_offices</span> <span class="op">&lt;-</span> <span class="va">form_offices</span> <span class="op">|&gt;</span></span>
 <span>  <span class="fu"><a href="https://dplyr.tidyverse.org/reference/filter.html" class="external-link">filter</a></span><span class="op">(</span><span class="va">form_name</span> <span class="op">==</span> <span class="st">"I-130"</span><span class="op">)</span></span>
 <span></span>
-<span><span class="va">processing_times</span> <span class="op">&lt;-</span> <span class="fu"><a href="../reference/uscis_processing_times.html">uscis_processing_times</a></span><span class="op">(</span><span class="va">i130_offices</span><span class="op">)</span></span></code></pre></div>
+<span><span class="va">processing_times</span> <span class="op">&lt;-</span> <span class="fu"><a href="../reference/uscis_processing_times.html">uscis_processing_times</a></span><span class="op">(</span><span class="va">i130_offices</span><span class="op">)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">processing_times</span><span class="op">)</span></span>
+<span><span class="co">#&gt; # A tibble: 6 × 13</span></span>
+<span><span class="co">#&gt;   form_name form_subtype office_code publication_date form_note_en form_note_es</span></span>
+<span><span class="co">#&gt;   &lt;fct&gt;     &lt;fct&gt;        &lt;fct&gt;       &lt;chr&gt;            &lt;lgl&gt;        &lt;lgl&gt;       </span></span>
+<span><span class="co">#&gt; 1 I-130     134A-F21     SCD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 2 I-130     134A-F21     NBC         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 3 I-130     134A-F21     FOD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 4 I-130     134A-IR      SCD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 5 I-130     134A-IR      NBC         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 6 I-130     134A-IR      FOD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; # ℹ 7 more variables: range_upper &lt;dbl&gt;, range_upper_unit &lt;fct&gt;,</span></span>
+<span><span class="co">#&gt; #   range_lower &lt;dbl&gt;, range_lower_unit &lt;fct&gt;, service_request_date &lt;chr&gt;,</span></span>
+<span><span class="co">#&gt; #   subtype_info_en &lt;chr&gt;, subtype_info_es &lt;chr&gt;</span></span></code></pre></div>
 </div>
-</section></section><section class="level2"><h2 id="analysis-examples">Analysis Examples<a class="anchor" aria-label="anchor" href="#analysis-examples"></a>
-</h2>
+</section></section><section class="section level3"><h3 id="analysis-examples">Analysis Examples<a class="anchor" aria-label="anchor" href="#analysis-examples"></a>
+</h3>
 <p>Let’s turn now to do some basic analysis of the processing times data.</p>
 <p>Before we begin, let’s standardize all times to months:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb7"><pre class="downlit sourceCode r">
-<code class="sourceCode R"><span><span class="va">processing_in_months</span> <span class="op">&lt;-</span> <span class="fu"><a href="../reference/standardize_to_months.html">standardize_to_months</a></span><span class="op">(</span><span class="va">processing_times</span><span class="op">)</span></span></code></pre></div>
+<code class="sourceCode R"><span><span class="va">processing_in_months</span> <span class="op">&lt;-</span> <span class="fu"><a href="../reference/standardize_to_months.html">standardize_to_months</a></span><span class="op">(</span><span class="va">processing_times</span><span class="op">)</span></span>
+<span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">processing_in_months</span><span class="op">)</span></span>
+<span><span class="co">#&gt; # A tibble: 6 × 13</span></span>
+<span><span class="co">#&gt;   form_name form_subtype office_code publication_date form_note_en form_note_es</span></span>
+<span><span class="co">#&gt;   &lt;fct&gt;     &lt;fct&gt;        &lt;fct&gt;       &lt;chr&gt;            &lt;lgl&gt;        &lt;lgl&gt;       </span></span>
+<span><span class="co">#&gt; 1 I-130     134A-F21     SCD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 2 I-130     134A-F21     NBC         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 3 I-130     134A-F21     FOD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 4 I-130     134A-IR      SCD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 5 I-130     134A-IR      NBC         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; 6 I-130     134A-IR      FOD         October 18, 2024 NA           NA          </span></span>
+<span><span class="co">#&gt; # ℹ 7 more variables: range_upper &lt;dbl&gt;, range_upper_unit &lt;chr&gt;,</span></span>
+<span><span class="co">#&gt; #   range_lower &lt;dbl&gt;, range_lower_unit &lt;chr&gt;, service_request_date &lt;chr&gt;,</span></span>
+<span><span class="co">#&gt; #   subtype_info_en &lt;chr&gt;, subtype_info_es &lt;chr&gt;</span></span></code></pre></div>
 </div>
-<section class="level3"><h3 id="overall-processing-times-by-form">Overall Processing Times by Form<a class="anchor" aria-label="anchor" href="#overall-processing-times-by-form"></a>
-</h3>
+<section class="level3"><h4 id="overall-processing-times-by-form">Overall Processing Times by Form<a class="anchor" aria-label="anchor" href="#overall-processing-times-by-form"></a>
+</h4>
 <p>Let’s create a boxplot showing the distribution of processing times for each form:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb8"><pre class="downlit sourceCode r">
@@ -203,8 +229,8 @@
 </div>
 </div>
 <p>This visualization shows the overall distribution of processing times for each form type, helping identify which forms typically take longer to process.</p>
-</section><section class="level3"><h3 id="processing-times-by-form-and-office">Processing Times by Form and Office<a class="anchor" aria-label="anchor" href="#processing-times-by-form-and-office"></a>
-</h3>
+</section><section class="level3"><h4 id="processing-times-by-form-and-office">Processing Times by Form and Office<a class="anchor" aria-label="anchor" href="#processing-times-by-form-and-office"></a>
+</h4>
 <p>We can also break this down by processing office to see variations in processing times across locations:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb9"><pre class="downlit sourceCode r">
@@ -228,8 +254,8 @@
 </div>
 </div>
 </div>
-</section><section class="level3"><h3 id="refine-by-form-subtype">Refine by Form Subtype<a class="anchor" aria-label="anchor" href="#refine-by-form-subtype"></a>
-</h3>
+</section><section class="level3"><h4 id="refine-by-form-subtype">Refine by Form Subtype<a class="anchor" aria-label="anchor" href="#refine-by-form-subtype"></a>
+</h4>
 <p>We can further refine the analysis by looking at specific form subtypes:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb10"><pre class="downlit sourceCode r">
@@ -259,8 +285,8 @@
 <li>Identify offices with consistently faster or slower processing times</li>
 <li>Understand the variation in processing times for specific forms</li>
 <li>Plan application submissions based on office processing speeds</li>
-</ol></section><section class="level3"><h3 id="office-performance-analysis">Office Performance Analysis<a class="anchor" aria-label="anchor" href="#office-performance-analysis"></a>
-</h3>
+</ol></section><section class="level3"><h4 id="office-performance-analysis">Office Performance Analysis<a class="anchor" aria-label="anchor" href="#office-performance-analysis"></a>
+</h4>
 <p>We can also analyze which offices are generally faster or slower across all forms:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb11"><pre class="downlit sourceCode r">
@@ -310,8 +336,8 @@
 </table>
 </div>
 </div>
-</section><section class="level3"><h3 id="summary-statistics">Summary Statistics<a class="anchor" aria-label="anchor" href="#summary-statistics"></a>
-</h3>
+</section><section class="level3"><h4 id="summary-statistics">Summary Statistics<a class="anchor" aria-label="anchor" href="#summary-statistics"></a>
+</h4>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb12"><pre class="downlit sourceCode r">
 <code class="sourceCode R"><span><span class="va">processing_times</span> <span class="op">|&gt;</span></span>
@@ -327,8 +353,8 @@
 <span><span class="co">#&gt;        &lt;dbl&gt;      &lt;dbl&gt;        &lt;dbl&gt;        &lt;dbl&gt;     &lt;int&gt;</span></span>
 <span><span class="co">#&gt; 1       93.9       75.0         81.8         59.5        18</span></span></code></pre></div>
 </div>
-</section></section><section class="level2"><h2 id="saving-data">Saving Data<a class="anchor" aria-label="anchor" href="#saving-data"></a>
-</h2>
+</section></section><section class="section level3"><h3 id="saving-data">Saving Data<a class="anchor" aria-label="anchor" href="#saving-data"></a>
+</h3>
 <p>You can save the retrieved data to CSV files for later use:</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb13"><pre class="downlit sourceCode r">
@@ -338,10 +364,11 @@
 <span>  row.names <span class="op">=</span> <span class="cn">FALSE</span></span>
 <span><span class="op">)</span></span></code></pre></div>
 </div>
-</section><section class="level2"><h2 id="common-issues">Common Issues<a class="anchor" aria-label="anchor" href="#common-issues"></a>
+<p>This will allow you to analyze the data further across time or share it with others.</p>
+</section><section class="section level2"><h2 id="common-issues">Common Issues<a class="anchor" aria-label="anchor" href="#common-issues"></a>
 </h2>
 <ol type="1">
-<li>If you get authentication errors, try running <code><a href="../reference/init_uscis_session.html">init_uscis_session()</a></code> again</li>
+<li>If you get authentication errors, try running <code>init_uscis_session()</code> again</li>
 <li>The API may have rate limits, so consider adding delays between requests for large queries</li>
 <li>Processing times data is updated periodically by USCIS, so results may vary</li>
 </ol>
@@ -351,7 +378,7 @@
 <p>The actual data may vary from when this vignette was built since the USCIS updates their processing times randomly.</p>
 </blockquote>
 </div>
-</section><section class="level2"><h2 id="additional-options">Additional Options<a class="anchor" aria-label="anchor" href="#additional-options"></a>
+</section><section class="section level2"><h2 id="additional-options">Additional Options<a class="anchor" aria-label="anchor" href="#additional-options"></a>
 </h2>
 <p>You can also use the <code>uscis</code> package to:</p>
 <ul>
@@ -361,7 +388,7 @@
 <li>Track changes in processing times over time</li>
 </ul>
 <p>The skies the limit with the data you have at your disposal!</p>
-</section><section class="level2"><h2 id="session-information">Session Information<a class="anchor" aria-label="anchor" href="#session-information"></a>
+</section><section class="section level2"><h2 id="session-information">Session Information<a class="anchor" aria-label="anchor" href="#session-information"></a>
 </h2>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb14"><pre class="downlit sourceCode r">

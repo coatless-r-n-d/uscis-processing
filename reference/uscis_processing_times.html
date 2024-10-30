@@ -110,12 +110,18 @@ Factor columns are created to optimize memory usage and ensure consistent catego
     <div class="section level2">
     <h2 id="ref-examples">Examples<a class="anchor" aria-label="anchor" href="#ref-examples"></a></h2>
     <div class="sourceCode"><pre class="sourceCode r"><code><span class="r-in"><span><span class="kw">if</span> <span class="op">(</span><span class="cn">FALSE</span><span class="op">)</span> <span class="op">{</span> <span class="co"># \dontrun{</span></span></span>
+<span class="r-in"><span><span class="co"># Initialize USCIS session</span></span></span>
+<span class="r-in"><span><span class="fu"><a href="uscis_init_session.html">uscis_init_session</a></span><span class="op">(</span><span class="op">)</span></span></span>
+<span class="r-in"><span></span></span>
 <span class="r-in"><span><span class="co"># Retrieve USCIS forms</span></span></span>
 <span class="r-in"><span><span class="va">forms</span> <span class="op">&lt;-</span> <span class="fu"><a href="uscis_forms.html">uscis_forms</a></span><span class="op">(</span><span class="op">)</span></span></span>
+<span class="r-in"><span></span></span>
 <span class="r-in"><span><span class="co"># Retrieve form types based on form names</span></span></span>
 <span class="r-in"><span><span class="va">form_types</span> <span class="op">&lt;-</span> <span class="fu"><a href="uscis_form_types.html">uscis_form_types</a></span><span class="op">(</span><span class="va">forms</span><span class="op">)</span></span></span>
+<span class="r-in"><span></span></span>
 <span class="r-in"><span><span class="co"># Retrieve processing offices for each form type</span></span></span>
 <span class="r-in"><span><span class="va">offices</span> <span class="op">&lt;-</span> <span class="fu"><a href="uscis_form_offices.html">uscis_form_offices</a></span><span class="op">(</span><span class="va">form_types</span><span class="op">)</span></span></span>
+<span class="r-in"><span></span></span>
 <span class="r-in"><span><span class="co"># Retrieve processing times for each form and office</span></span></span>
 <span class="r-in"><span><span class="va">processing_times</span> <span class="op">&lt;-</span> <span class="fu">uscis_processing_times</span><span class="op">(</span><span class="va">offices</span><span class="op">)</span></span></span>
 <span class="r-in"><span><span class="fu"><a href="https://rdrr.io/r/utils/head.html" class="external-link">head</a></span><span class="op">(</span><span class="va">processing_times</span><span class="op">)</span></span></span>
