@@ -46,7 +46,7 @@ package from GitHub with:
 
 ``` r
 # install.packages("remotes")
-remotes::install_github("coatless-r-n-d/ucis-processing")
+remotes::install_github("coatless-r-n-d/uscis-processing")
 ```
 
 ## Usage
