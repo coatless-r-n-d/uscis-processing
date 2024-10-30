@@ -1,0 +1,9 @@
+pandoc: 3.1.11
+pkgdown: 2.1.1
+pkgdown_sha: ~
+articles:
+  uscis-processing-times: uscis-processing-times.html
+last_built: 2024-10-30T11:17Z
+urls:
+  reference: https://rd.thecoatlessprofessor.com/uscis-processing/reference
+  article: https://rd.thecoatlessprofessor.com/uscis-processing/articles
